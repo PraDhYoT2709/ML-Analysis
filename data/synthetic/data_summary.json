@@ -1,0 +1,59 @@
+{
+  "generation_date": "2025-08-07T06:54:39.284856",
+  "datasets": {
+    "customers": {
+      "rows": 10000,
+      "columns": 17,
+      "memory_usage_mb": 8.5
+    },
+    "products": {
+      "rows": 500,
+      "columns": 13,
+      "memory_usage_mb": 0.24
+    },
+    "orders": {
+      "rows": 9,
+      "columns": 18,
+      "memory_usage_mb": 0.01
+    },
+    "order_items": {
+      "rows": 15,
+      "columns": 7,
+      "memory_usage_mb": 0.0
+    },
+    "reviews": {
+      "rows": 2,
+      "columns": 10,
+      "memory_usage_mb": 0.0
+    },
+    "website_sessions": {
+      "rows": 115351,
+      "columns": 13,
+      "memory_usage_mb": 47.57
+    },
+    "marketing_campaigns": {
+      "rows": 50,
+      "columns": 9,
+      "memory_usage_mb": 0.02
+    },
+    "customer_segments": {
+      "rows": 7,
+      "columns": 11,
+      "memory_usage_mb": 0.0
+    }
+  },
+  "key_metrics": {
+    "total_revenue": 2760.19,
+    "average_order_value": 394.31,
+    "customers_with_orders": 8,
+    "conversion_rate": 0.08
+  },
+  "data_quality_notes": [
+    "All data is synthetically generated for demonstration purposes",
+    "Customer emails and personal information are fake",
+    "Product names and descriptions are generated",
+    "Order patterns include realistic seasonality and customer behavior",
+    "RFM segmentation follows industry standard practices",
+    "Churn probability calculations are simplified for demonstration"
+  ]
+}

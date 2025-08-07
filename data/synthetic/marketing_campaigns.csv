@@ -1,0 +1,51 @@
+campaign_id,campaign_name,campaign_type,channel,start_date,end_date,budget,target_audience,campaign_status
+1,Brand Awareness - Referral - Jan 2025,Brand Awareness,Referral,2025-01-18,2025-02-23,270.75,"Age 49-43, Male",completed
+2,Brand Awareness - Email Marketing - May 2024,Brand Awareness,Email Marketing,2024-05-22,2024-07-09,5976.04,"Age 35-61, Male",completed
+3,Product Launch - Google Ads - Apr 2025,Product Launch,Google Ads,2025-04-10,2025-05-19,6152.23,"Age 46-26, All",completed
+4,Retargeting - Facebook Ads - Aug 2024,Retargeting,Facebook Ads,2024-08-28,2024-10-23,2110.74,"Age 25-25, Female",completed
+5,Product Launch - Referral - Aug 2023,Product Launch,Referral,2023-08-25,2023-11-10,2128.59,"Age 36-70, Male",completed
+6,Holiday Special - Email Marketing - Aug 2023,Holiday Special,Email Marketing,2023-08-31,2023-11-01,3885.92,"Age 64-70, All",completed
+7,Brand Awareness - Direct - Jul 2024,Brand Awareness,Direct,2024-07-30,2024-10-15,13389.01,"Age 64-53, All",completed
+8,Product Launch - Email Marketing - Mar 2025,Product Launch,Email Marketing,2025-03-14,2025-03-21,852.94,"Age 31-34, Female",completed
+9,Retargeting - Email Marketing - Dec 2023,Retargeting,Email Marketing,2023-12-30,2024-02-24,1976.8,"Age 27-50, Female",completed
+10,Retargeting - Direct - Feb 2024,Retargeting,Direct,2024-02-26,2024-04-04,7115.77,"Age 20-39, All",completed
+11,Holiday Special - Direct - Feb 2025,Holiday Special,Direct,2025-02-24,2025-04-13,1288.04,"Age 31-65, All",completed
+12,Brand Awareness - Referral - Oct 2023,Brand Awareness,Referral,2023-10-18,2024-01-11,4287.59,"Age 59-68, Male",completed
+13,Brand Awareness - Organic Search - Dec 2024,Brand Awareness,Organic Search,2024-12-31,2025-01-31,2134.18,"Age 32-51, Female",completed
+14,Brand Awareness - Referral - Apr 2025,Brand Awareness,Referral,2025-04-18,2025-07-07,805.84,"Age 26-27, All",completed
+15,Holiday Special - Organic Search - Jun 2024,Holiday Special,Organic Search,2024-06-03,2024-07-17,3651.6,"Age 40-31, Female",completed
+16,Brand Awareness - Facebook Ads - Oct 2023,Brand Awareness,Facebook Ads,2023-10-10,2023-11-17,1959.36,"Age 54-57, Male",completed
+17,Holiday Special - Referral - Jan 2025,Holiday Special,Referral,2025-01-21,2025-03-11,3677.01,"Age 46-32, Female",completed
+18,Seasonal Sale - Organic Search - Sep 2024,Seasonal Sale,Organic Search,2024-09-07,2024-09-29,18118.12,"Age 36-63, All",completed
+19,Retargeting - Google Ads - Mar 2025,Retargeting,Google Ads,2025-03-02,2025-03-21,10493.67,"Age 30-59, Male",completed
+20,Product Launch - Referral - Jun 2024,Product Launch,Referral,2024-06-18,2024-09-10,10072.72,"Age 38-55, Female",completed
+21,Product Launch - Referral - Oct 2023,Product Launch,Referral,2023-10-02,2023-10-24,1001.57,"Age 55-26, Male",completed
+22,Product Launch - Facebook Ads - Dec 2024,Product Launch,Facebook Ads,2024-12-21,2024-12-30,2208.11,"Age 44-62, Female",completed
+23,Seasonal Sale - Email Marketing - Feb 2025,Seasonal Sale,Email Marketing,2025-02-04,2025-02-16,2485.09,"Age 43-39, Female",completed
+24,Brand Awareness - Referral - Apr 2025,Brand Awareness,Referral,2025-04-08,2025-05-24,1786.84,"Age 61-59, Male",completed
+25,Holiday Special - Direct - Apr 2025,Holiday Special,Direct,2025-04-15,2025-06-12,4153.97,"Age 64-54, Female",completed
+26,Retargeting - Email Marketing - Sep 2023,Retargeting,Email Marketing,2023-09-25,2023-10-14,1016.07,"Age 19-54, Female",completed
+27,Retargeting - Direct - Apr 2024,Retargeting,Direct,2024-04-05,2024-05-05,730.04,"Age 63-74, Female",completed
+28,Seasonal Sale - Facebook Ads - Aug 2024,Seasonal Sale,Facebook Ads,2024-08-31,2024-09-13,914.33,"Age 27-45, All",completed
+29,Seasonal Sale - Google Ads - May 2025,Seasonal Sale,Google Ads,2025-05-21,2025-06-26,865.11,"Age 51-27, Male",completed
+30,Brand Awareness - Email Marketing - Oct 2024,Brand Awareness,Email Marketing,2024-10-15,2024-12-19,5849.83,"Age 25-60, All",completed
+31,Seasonal Sale - Direct - Mar 2024,Seasonal Sale,Direct,2024-03-20,2024-06-16,1379.79,"Age 29-43, Male",completed
+32,Brand Awareness - Email Marketing - May 2025,Brand Awareness,Email Marketing,2025-05-15,2025-06-04,1369.84,"Age 52-37, All",completed
+33,Product Launch - Direct - Feb 2024,Product Launch,Direct,2024-02-20,2024-05-03,7439.77,"Age 56-57, Female",completed
+34,Brand Awareness - Facebook Ads - Sep 2023,Brand Awareness,Facebook Ads,2023-09-21,2023-12-08,8667.57,"Age 53-67, Female",completed
+35,Retargeting - Organic Search - Nov 2024,Retargeting,Organic Search,2024-11-08,2025-01-11,2425.75,"Age 18-48, All",completed
+36,Holiday Special - Google Ads - Jan 2025,Holiday Special,Google Ads,2025-01-08,2025-01-22,824.01,"Age 46-48, All",completed
+37,Retargeting - Organic Search - Mar 2025,Retargeting,Organic Search,2025-03-09,2025-04-10,6655.63,"Age 35-34, Female",completed
+38,Holiday Special - Facebook Ads - Jul 2024,Holiday Special,Facebook Ads,2024-07-20,2024-08-21,1037.38,"Age 42-42, Male",completed
+39,Brand Awareness - Google Ads - Jan 2025,Brand Awareness,Google Ads,2025-01-29,2025-02-19,5116.33,"Age 57-62, All",completed
+40,Product Launch - Facebook Ads - Jul 2025,Product Launch,Facebook Ads,2025-07-07,2025-09-16,1584.69,"Age 43-26, Male",active
+41,Seasonal Sale - Google Ads - Sep 2024,Seasonal Sale,Google Ads,2024-09-11,2024-10-20,1145.73,"Age 44-73, All",completed
+42,Holiday Special - Direct - Jul 2024,Holiday Special,Direct,2024-07-31,2024-09-05,11633.16,"Age 53-45, Male",completed
+43,Seasonal Sale - Facebook Ads - Mar 2025,Seasonal Sale,Facebook Ads,2025-03-26,2025-04-17,9468.75,"Age 27-65, Female",completed
+44,Holiday Special - Email Marketing - Apr 2024,Holiday Special,Email Marketing,2024-04-13,2024-04-23,249.67,"Age 59-65, Male",completed
+45,Brand Awareness - Direct - Aug 2024,Brand Awareness,Direct,2024-08-29,2024-09-11,2460.33,"Age 47-51, All",completed
+46,Holiday Special - Facebook Ads - Jan 2025,Holiday Special,Facebook Ads,2025-01-24,2025-03-27,1729.56,"Age 28-28, Female",completed
+47,Holiday Special - Referral - Jan 2025,Holiday Special,Referral,2025-01-17,2025-04-07,26750.94,"Age 20-40, Female",completed
+48,Seasonal Sale - Organic Search - Jan 2025,Seasonal Sale,Organic Search,2025-01-27,2025-04-11,5614.0,"Age 38-34, All",completed
+49,Product Launch - Referral - Oct 2023,Product Launch,Referral,2023-10-03,2023-12-29,2382.58,"Age 48-54, All",completed
+50,Retargeting - Direct - Dec 2023,Retargeting,Direct,2023-12-23,2024-03-18,1336.53,"Age 53-26, Female",completed

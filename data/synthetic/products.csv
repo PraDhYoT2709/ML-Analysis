@@ -1,0 +1,501 @@
+product_id,product_name,category_name,brand,unit_price,cost_price,weight,color,size,stock_quantity,reorder_level,is_active,launch_date
+1,Walmart Polarized solution-oriented middleware Home & Garden,Home & Garden,Walmart,5.0,2.09,2.95,Red,XS,406,33,False,2025-03-06
+2,Ulta Synergistic eco-centric migration Beauty,Beauty,Ulta,32.21,14.95,2.81,Blue,M,895,33,True,2025-03-17
+3,Target Organized empowering process improvement Home & Garden,Home & Garden,Target,29.15,15.06,1.53,Green,XS,915,43,True,2025-05-18
+4,Dell Upgradable fault-tolerant hub Electronic,Electronics,Dell,627.17,346.1,1.91,Red,L,896,42,True,2025-03-01
+5,Home Depot Multi-channeled methodical extranet Home & Garden,Home & Garden,Home Depot,62.21,41.93,1.55,Black,L,474,42,True,2024-09-20
+6,Adidas Diverse encompassing toolset Clothing,Clothing,Adidas,93.12,37.48,5.09,Black,L,281,36,True,2024-12-30
+7,Puma Networked needs-based array Sport,Sports,Puma,209.66,117.96,1.88,Red,S,324,27,True,2025-05-07
+8,Apple Persevering dedicated access Electronic,Electronics,Apple,5.0,2.83,1.4,Black,L,57,26,True,2023-11-27
+9,Target User-friendly incremental challenge Home & Garden,Home & Garden,Target,173.74,101.82,0.76,Gray,XXL,655,33,True,2024-06-06
+10,H&M Organic impactful firmware Clothing,Clothing,H&M,61.92,41.96,2.32,Blue,L,884,27,True,2025-06-21
+11,Maybelline Horizontal solution-oriented encryption Beauty,Beauty,Maybelline,97.79,60.5,3.61,Red,One Size,99,41,True,2024-12-24
+12,IKEA Grass-roots secondary orchestration Home & Garden,Home & Garden,IKEA,131.32,66.4,5.63,Blue,One Size,231,36,True,2024-06-09
+13,Cambridge Versatile national forecast Book,Books,Cambridge,5.0,2.37,2.17,Brown,XL,995,23,True,2024-03-27
+14,LG Triple-buffered grid-enabled extranet Electronic,Electronics,LG,5.0,3.45,2.46,White,XL,676,42,True,2024-10-09
+15,Adidas Multi-channeled modular portal Clothing,Clothing,Adidas,35.3,21.99,4.45,Red,L,537,33,False,2023-11-11
+16,Oxford Integrated 6thgeneration forecast Book,Books,Oxford,24.64,17.06,2.02,Red,XL,396,44,True,2023-11-16
+17,Oxford Front-line disintermediate conglomeration Book,Books,Oxford,35.18,15.39,1.92,Red,S,324,11,True,2024-07-18
+18,Zara Multi-lateral systemic success Clothing,Clothing,Zara,55.88,32.75,3.19,Gray,XXL,3,21,True,2024-01-18
+19,Penguin Devolved reciprocal attitude Book,Books,Penguin,38.25,23.31,2.99,Gray,S,346,16,True,2024-08-11
+20,Nike Managed 4thgeneration circuit Sport,Sports,Nike,198.58,85.81,1.64,Red,S,599,33,True,2025-01-23
+21,Nike Universal composite Internet solution Clothing,Clothing,Nike,63.0,43.87,0.67,Green,XS,8,35,False,2024-03-22
+22,Target Persistent motivating hierarchy Home & Garden,Home & Garden,Target,5.0,2.39,4.27,Green,S,889,28,True,2024-11-08
+23,Random House Operative value-added synergy Book,Books,Random House,24.4,15.6,4.34,Brown,S,881,19,True,2025-07-18
+24,Nike Horizontal real-time alliance Sport,Sports,Nike,322.13,190.46,2.03,Brown,XXL,76,44,True,2023-08-26
+25,Apple Organic executive encryption Electronic,Electronics,Apple,297.9,185.8,1.44,Green,S,898,45,True,2024-03-02
+26,H&M Decentralized global approach Clothing,Clothing,H&M,155.09,98.71,4.51,Gray,S,143,23,True,2024-05-01
+27,LG Stand-alone needs-based moratorium Electronic,Electronics,LG,7.14,4.08,2.42,Black,S,394,47,True,2024-03-03
+28,Zara Synchronized logistical system engine Clothing,Clothing,Zara,86.99,37.56,3.83,Blue,XL,850,43,False,2025-07-19
+29,Zara Vision-oriented zero tolerance project Clothing,Clothing,Zara,51.17,26.75,1.17,Black,XL,558,26,False,2023-11-18
+30,Random House Fully-configurable disintermediate knowledgebase Book,Books,Random House,35.81,19.71,2.73,Black,XXL,642,25,True,2025-03-19
+31,Dell Programmable explicit extranet Electronic,Electronics,Dell,448.66,191.24,2.85,Brown,XS,233,18,False,2024-11-28
+32,Home Depot Total tangible matrix Home & Garden,Home & Garden,Home Depot,101.29,63.01,2.22,Gray,S,811,16,False,2024-08-21
+33,Apple Object-based full-range access Electronic,Electronics,Apple,5.0,3.04,1.89,White,XL,495,12,True,2023-12-09
+34,Ulta Switchable exuding system engine Beauty,Beauty,Ulta,110.86,62.76,2.99,Red,XXL,686,45,True,2024-03-25
+35,Apple Devolved contextually-based strategy Electronic,Electronics,Apple,608.14,269.91,2.82,Green,S,743,23,True,2025-03-19
+36,Samsung Upgradable incremental Internet solution Electronic,Electronics,Samsung,304.39,139.15,3.19,White,XXL,403,48,True,2025-07-27
+37,Zara Triple-buffered executive neural-net Clothing,Clothing,Zara,27.29,14.51,2.88,Gray,L,660,29,True,2024-03-03
+38,Nike Mandatory 3rdgeneration success Clothing,Clothing,Nike,107.38,48.71,2.56,Black,XS,101,35,True,2025-06-01
+39,Target Vision-oriented multi-tasking alliance Home & Garden,Home & Garden,Target,5.0,2.47,2.49,White,S,698,11,True,2025-04-26
+40,Sony Secured tangible process improvement Electronic,Electronics,Sony,335.96,160.16,2.88,Brown,XL,400,49,True,2024-06-23
+41,Puma Team-oriented methodical application Sport,Sports,Puma,140.77,64.11,0.92,Green,M,769,32,True,2025-07-12
+42,Zara Optional dedicated data-warehouse Clothing,Clothing,Zara,64.37,26.69,6.76,Red,XL,909,12,True,2024-05-28
+43,Oxford Realigned eco-centric parallelism Book,Books,Oxford,8.99,4.22,1.84,Green,L,432,25,True,2024-10-27
+44,Oxford Organic tertiary workforce Book,Books,Oxford,19.84,11.32,5.22,Black,XXL,90,45,True,2024-05-13
+45,Dell Advanced grid-enabled application Electronic,Electronics,Dell,395.92,245.12,5.04,Gray,XL,177,37,True,2023-12-31
+46,Puma Multi-channeled actuating definition Sport,Sports,Puma,234.63,150.73,4.28,Green,S,871,13,True,2025-05-12
+47,IKEA Multi-tiered 3rdgeneration project Home & Garden,Home & Garden,IKEA,168.37,99.73,4.86,Blue,M,932,43,True,2025-04-15
+48,Home Depot User-friendly 6thgeneration info-mediaries Home & Garden,Home & Garden,Home Depot,71.5,41.34,3.23,White,M,478,29,True,2023-10-28
+49,Cambridge Fully-configurable secondary secured line Book,Books,Cambridge,41.87,22.08,1.63,Blue,One Size,727,16,True,2024-04-07
+50,Dell Persistent intangible hierarchy Electronic,Electronics,Dell,238.79,159.02,1.83,Blue,XXL,189,26,True,2025-07-05
+51,Wiley Open-source eco-centric throughput Book,Books,Wiley,37.74,19.66,1.25,Black,M,805,21,True,2024-07-04
+52,Penguin Synergized leadingedge artificial intelligence Book,Books,Penguin,20.58,11.3,2.0,Blue,One Size,813,10,True,2025-03-04
+53,Dell Assimilated full-range hierarchy Electronic,Electronics,Dell,362.16,179.98,1.19,Brown,XS,684,39,True,2025-05-27
+54,Uniqlo Optional 24/7 access Clothing,Clothing,Uniqlo,42.81,19.39,2.92,White,XS,64,30,False,2025-06-05
+55,H&M Profit-focused bandwidth-monitored flexibility Clothing,Clothing,H&M,95.78,53.28,3.09,Green,XL,503,26,True,2024-03-09
+56,Sephora Phased intangible Graphic Interface Beauty,Beauty,Sephora,7.58,3.36,0.88,Gray,XXL,853,42,True,2023-10-12
+57,Under Armour Advanced dedicated concept Sport,Sports,Under Armour,149.65,82.25,2.47,Red,XL,652,17,True,2024-10-22
+58,Maybelline Devolved 4thgeneration core Beauty,Beauty,Maybelline,54.59,29.14,2.01,Gray,XXL,561,48,False,2025-03-10
+59,H&M Fundamental human-resource pricing structure Clothing,Clothing,H&M,37.9,23.32,5.18,Red,S,953,21,True,2023-10-03
+60,Wiley Open-source tertiary extranet Book,Books,Wiley,29.89,16.56,1.6,Blue,L,63,25,False,2025-07-19
+61,Uniqlo Persistent regional website Clothing,Clothing,Uniqlo,103.74,50.37,4.82,Red,L,717,46,True,2023-12-23
+62,Penguin Decentralized systematic intranet Book,Books,Penguin,19.49,11.54,3.15,Gray,L,749,17,False,2024-02-04
+63,Penguin Up-sized coherent system engine Book,Books,Penguin,31.52,18.5,1.89,Blue,XL,302,10,True,2025-03-29
+64,Apple Team-oriented zero administration pricing structure Electronic,Electronics,Apple,331.41,184.61,4.22,Red,L,183,47,True,2025-07-17
+65,Uniqlo Profit-focused encompassing encryption Clothing,Clothing,Uniqlo,71.54,45.64,4.16,Blue,XXL,375,37,True,2024-05-03
+66,Sony Secured disintermediate budgetary management Electronic,Electronics,Sony,269.33,175.28,7.29,Black,S,233,35,True,2024-05-03
+67,LG Centralized grid-enabled support Electronic,Electronics,LG,655.83,315.92,5.39,Brown,XS,750,27,True,2024-06-24
+68,Dell Fundamental bottom-line matrix Electronic,Electronics,Dell,422.96,268.86,1.79,Green,One Size,100,37,True,2024-09-07
+69,Cambridge Realigned dynamic protocol Book,Books,Cambridge,32.94,18.94,0.98,Green,M,66,47,True,2024-05-26
+70,Dell Seamless logistical monitoring Electronic,Electronics,Dell,117.69,74.73,1.38,Brown,S,861,40,True,2024-08-24
+71,Adidas Multi-layered well-modulated attitude Clothing,Clothing,Adidas,127.18,60.09,2.06,Blue,XS,701,26,True,2025-08-01
+72,Home Depot Profit-focused asynchronous paradigm Home & Garden,Home & Garden,Home Depot,66.03,37.73,5.07,Black,XXL,864,49,True,2025-06-29
+73,Dell Enterprise-wide foreground solution Electronic,Electronics,Dell,189.15,109.36,3.62,Blue,M,499,34,True,2023-09-19
+74,L'Oreal Multi-layered logistical project Beauty,Beauty,L'Oreal,43.97,24.23,2.1,Green,XS,964,15,True,2023-10-02
+75,L'Oreal Ameliorated eco-centric knowledgebase Beauty,Beauty,L'Oreal,61.39,35.4,4.16,White,L,189,40,False,2025-08-03
+76,Target Focused tertiary forecast Home & Garden,Home & Garden,Target,111.92,64.8,1.79,Green,S,679,42,True,2025-07-05
+77,Cambridge Front-line system-worthy adapter Book,Books,Cambridge,48.46,27.68,2.44,White,XS,196,27,True,2025-03-22
+78,Wayfair Proactive static monitoring Home & Garden,Home & Garden,Wayfair,134.9,84.83,5.58,Brown,S,538,21,False,2024-12-19
+79,Nike Team-oriented intermediate success Clothing,Clothing,Nike,123.82,74.91,1.35,Black,M,689,13,True,2025-02-02
+80,Wayfair Operative didactic solution Home & Garden,Home & Garden,Wayfair,125.38,73.11,1.88,Brown,M,466,10,False,2024-05-01
+81,Sephora Diverse local emulation Beauty,Beauty,Sephora,111.84,58.41,4.64,Brown,S,26,33,True,2025-07-12
+82,Nike Organic zero tolerance product Clothing,Clothing,Nike,79.5,54.2,4.1,Green,XS,652,34,True,2024-04-28
+83,Apple Advanced maximized productivity Electronic,Electronics,Apple,244.88,102.92,1.09,Blue,L,927,27,True,2024-09-28
+84,IKEA Universal secondary moderator Home & Garden,Home & Garden,IKEA,66.71,41.4,5.51,Gray,One Size,840,40,True,2023-11-19
+85,LG Inverse value-added capability Electronic,Electronics,LG,523.94,305.28,2.71,Red,XXL,991,47,True,2025-04-23
+86,Adidas Customer-focused content-based throughput Clothing,Clothing,Adidas,62.07,38.13,6.37,Gray,L,503,43,True,2024-12-07
+87,H&M Phased mission-critical concept Clothing,Clothing,H&M,168.49,82.85,3.54,Gray,M,829,46,True,2024-03-19
+88,Penguin Universal non-volatile standardization Book,Books,Penguin,33.27,15.44,1.6,Green,XXL,97,23,True,2025-05-09
+89,Penguin Right-sized background monitoring Book,Books,Penguin,7.0,4.31,2.1,Blue,L,373,40,True,2024-06-18
+90,Samsung Stand-alone disintermediate artificial intelligence Electronic,Electronics,Samsung,5.0,2.11,2.25,Blue,XXL,349,45,True,2024-10-07
+91,Zara Realigned motivating Graphic Interface Clothing,Clothing,Zara,101.41,70.56,2.47,Blue,S,831,18,True,2025-03-08
+92,IKEA Self-enabling zero-defect time-frame Home & Garden,Home & Garden,IKEA,45.94,30.1,2.09,Gray,XS,138,35,True,2024-05-31
+93,Nike De-engineered clear-thinking infrastructure Sport,Sports,Nike,5.0,3.09,2.37,Black,XXL,338,17,True,2023-12-15
+94,Samsung Persevering logistical infrastructure Electronic,Electronics,Samsung,234.95,97.16,2.43,White,L,798,22,True,2024-12-14
+95,Puma Persevering exuding secured line Sport,Sports,Puma,301.07,202.12,2.8,White,XXL,910,33,True,2023-12-26
+96,Wayfair Persevering composite superstructure Home & Garden,Home & Garden,Wayfair,131.87,88.05,2.18,Green,M,11,30,True,2024-11-22
+97,Random House Re-contextualized object-oriented open system Book,Books,Random House,16.57,6.85,5.2,Blue,XXL,580,31,True,2025-04-09
+98,Under Armour Pre-emptive holistic core Sport,Sports,Under Armour,121.93,59.0,3.32,White,XXL,806,42,True,2025-07-20
+99,L'Oreal Quality-focused even-keeled workforce Beauty,Beauty,L'Oreal,76.78,49.28,5.67,Green,M,855,23,True,2025-08-02
+100,Walmart Function-based multi-state toolset Home & Garden,Home & Garden,Walmart,88.91,46.32,5.08,Green,M,364,20,True,2025-01-29
+101,Adidas Right-sized scalable protocol Clothing,Clothing,Adidas,99.25,40.2,3.56,Gray,L,516,33,True,2023-10-23
+102,LG Vision-oriented analyzing array Electronic,Electronics,LG,363.98,212.3,7.01,Brown,XL,565,49,True,2025-04-05
+103,Nike Monitored zero-defect definition Clothing,Clothing,Nike,154.81,79.8,3.88,White,XXL,852,23,True,2024-03-17
+104,H&M Function-based asymmetric focus group Clothing,Clothing,H&M,45.76,24.96,2.77,Green,XXL,528,44,True,2024-01-04
+105,Under Armour Focused object-oriented superstructure Sport,Sports,Under Armour,135.91,78.71,1.53,Blue,M,648,35,True,2023-11-14
+106,Dell Profit-focused even-keeled adapter Electronic,Electronics,Dell,685.96,459.49,0.99,Blue,S,264,11,True,2024-06-04
+107,Zara Versatile zero-defect time-frame Clothing,Clothing,Zara,88.66,59.62,2.05,Gray,L,330,37,True,2025-07-15
+108,Adidas Networked maximized focus group Clothing,Clothing,Adidas,63.08,37.95,2.24,Gray,One Size,46,46,True,2024-08-15
+109,Nike Proactive heuristic Internet solution Clothing,Clothing,Nike,111.7,55.52,2.29,Blue,One Size,399,38,True,2024-11-26
+110,Penguin Virtual leadingedge array Book,Books,Penguin,7.53,4.83,2.08,Brown,One Size,978,41,True,2024-01-14
+111,Uniqlo Multi-tiered radical methodology Clothing,Clothing,Uniqlo,60.89,41.33,2.42,Green,One Size,723,29,True,2023-09-04
+112,Uniqlo Phased disintermediate productivity Clothing,Clothing,Uniqlo,28.24,18.97,2.29,White,S,504,20,True,2025-01-19
+113,Cambridge Virtual homogeneous challenge Book,Books,Cambridge,46.42,30.05,2.27,Green,One Size,307,34,True,2025-02-27
+114,LG Compatible eco-centric implementation Electronic,Electronics,LG,219.51,111.65,3.69,Black,XXL,13,33,True,2024-05-03
+115,Wayfair Expanded contextually-based portal Home & Garden,Home & Garden,Wayfair,167.08,104.37,3.64,Red,XL,818,28,True,2024-01-25
+116,Under Armour Programmable scalable circuit Sport,Sports,Under Armour,33.37,16.83,3.54,Green,One Size,617,45,True,2024-01-18
+117,LG Total zero tolerance workforce Electronic,Electronics,LG,5.0,2.34,5.03,Brown,XXL,27,32,True,2024-10-11
+118,Zara Intuitive transitional project Clothing,Clothing,Zara,70.88,45.79,3.0,Brown,XS,566,45,True,2025-04-25
+119,Walmart Focused bottom-line Graphical User Interface Home & Garden,Home & Garden,Walmart,5.0,3.22,1.55,Blue,L,31,32,True,2023-09-24
+120,Dell Switchable real-time open system Electronic,Electronics,Dell,210.88,120.93,3.79,Black,One Size,311,40,True,2023-12-14
+121,Oxford Streamlined transitional array Book,Books,Oxford,22.34,15.51,1.86,Blue,XL,738,14,True,2024-01-25
+122,Reebok Persevering asynchronous Graphic Interface Sport,Sports,Reebok,24.41,14.56,1.63,White,S,383,29,True,2024-09-05
+123,Nike Extended national firmware Clothing,Clothing,Nike,38.67,22.9,1.49,Gray,L,467,41,False,2024-05-29
+124,Uniqlo Seamless multi-tasking adapter Clothing,Clothing,Uniqlo,137.74,58.24,2.17,Gray,XXL,657,17,True,2024-05-08
+125,Cambridge Function-based solution-oriented circuit Book,Books,Cambridge,21.57,9.15,1.21,Green,S,275,47,False,2025-04-10
+126,LG Virtual reciprocal productivity Electronic,Electronics,LG,5.0,3.21,1.69,Red,XS,810,45,True,2024-12-18
+127,Nike Universal 3rdgeneration strategy Sport,Sports,Nike,114.16,66.28,2.88,Gray,XL,171,45,True,2024-04-03
+128,Sephora Business-focused real-time Graphical User Interface Beauty,Beauty,Sephora,38.74,20.32,4.38,Black,L,203,44,True,2023-10-12
+129,Reebok Stand-alone responsive budgetary management Sport,Sports,Reebok,134.23,77.33,2.99,Gray,S,763,17,True,2025-05-27
+130,Zara Secured even-keeled definition Clothing,Clothing,Zara,78.56,34.89,2.27,Red,M,867,11,True,2024-06-08
+131,Sephora Enterprise-wide intangible info-mediaries Beauty,Beauty,Sephora,53.64,25.42,2.11,Gray,L,198,19,True,2025-05-15
+132,IKEA Self-enabling full-range knowledge user Home & Garden,Home & Garden,IKEA,95.3,65.35,4.25,Brown,XL,140,27,True,2025-02-22
+133,Dell Visionary methodical forecast Electronic,Electronics,Dell,283.81,195.73,5.46,Blue,S,113,10,True,2024-04-14
+134,Home Depot Triple-buffered bi-directional software Home & Garden,Home & Garden,Home Depot,41.55,22.97,1.84,Black,One Size,59,25,True,2024-05-09
+135,Nike Reduced optimal throughput Sport,Sports,Nike,5.0,2.23,2.3,Black,XL,930,28,True,2024-04-05
+136,Oxford Centralized multimedia database Book,Books,Oxford,34.93,20.97,1.85,Black,XXL,879,35,True,2024-02-13
+137,Maybelline Open-source context-sensitive function Beauty,Beauty,Maybelline,67.56,45.33,5.02,Red,XL,229,41,True,2024-09-24
+138,Penguin Polarized modular open system Book,Books,Penguin,5.0,2.79,2.86,White,One Size,830,24,True,2024-05-16
+139,Ulta Total 24/7 info-mediaries Beauty,Beauty,Ulta,110.25,45.98,7.14,Green,S,477,31,True,2025-02-15
+140,L'Oreal Virtual non-volatile alliance Beauty,Beauty,L'Oreal,76.79,30.89,1.44,Gray,One Size,675,45,True,2023-10-21
+141,Home Depot Phased clear-thinking hardware Home & Garden,Home & Garden,Home Depot,31.76,15.3,1.18,Green,XS,388,47,True,2023-12-26
+142,Nike Cross-group interactive complexity Clothing,Clothing,Nike,62.33,40.45,3.03,Blue,XL,323,27,False,2024-11-12
+143,Zara Innovative empowering capacity Clothing,Clothing,Zara,100.32,50.27,6.64,Green,XXL,717,45,True,2023-09-03
+144,Under Armour Configurable 6thgeneration firmware Sport,Sports,Under Armour,121.44,54.82,1.35,Blue,XL,84,47,True,2023-11-20
+145,Zara Virtual 4thgeneration initiative Clothing,Clothing,Zara,150.38,83.08,3.72,Red,S,509,21,False,2023-10-01
+146,Uniqlo Customizable zero-defect software Clothing,Clothing,Uniqlo,73.05,40.87,3.08,Red,S,602,39,True,2025-06-08
+147,Reebok Compatible national Graphic Interface Sport,Sports,Reebok,131.43,83.27,3.17,Red,S,661,42,True,2024-01-14
+148,H&M Ergonomic coherent synergy Clothing,Clothing,H&M,56.27,23.24,4.16,Gray,S,908,15,True,2024-08-14
+149,Target Extended real-time benchmark Home & Garden,Home & Garden,Target,116.44,50.91,3.84,White,L,146,18,True,2024-02-02
+150,Cambridge Re-contextualized human-resource concept Book,Books,Cambridge,31.58,16.01,2.56,Gray,L,910,28,False,2024-05-05
+151,Uniqlo Front-line modular application Clothing,Clothing,Uniqlo,54.25,26.25,1.26,Red,XS,516,20,True,2023-12-07
+152,Maybelline Enhanced well-modulated Graphical User Interface Beauty,Beauty,Maybelline,37.07,19.19,4.67,Black,XS,167,30,True,2023-12-14
+153,Target Monitored scalable emulation Home & Garden,Home & Garden,Target,157.57,64.19,3.61,Gray,XL,155,13,True,2024-07-02
+154,Oxford Synergistic multimedia hub Book,Books,Oxford,31.46,20.8,2.91,Brown,XXL,593,23,True,2024-03-01
+155,Nike Triple-buffered 3rdgeneration circuit Sport,Sports,Nike,204.63,105.01,3.69,Blue,XS,113,30,True,2024-04-02
+156,Dell Front-line bi-directional standardization Electronic,Electronics,Dell,268.49,152.89,2.02,Brown,XL,80,14,True,2025-08-01
+157,Dell Cross-group neutral structure Electronic,Electronics,Dell,445.38,305.03,2.04,Brown,XL,313,41,True,2024-09-11
+158,Samsung Innovative actuating portal Electronic,Electronics,Samsung,715.18,322.26,2.36,White,L,599,43,True,2024-03-08
+159,Home Depot Ergonomic 4thgeneration solution Home & Garden,Home & Garden,Home Depot,72.31,48.52,2.52,Gray,One Size,27,38,True,2024-05-06
+160,Target Multi-layered zero-defect methodology Home & Garden,Home & Garden,Target,60.69,26.85,3.19,White,L,814,20,True,2025-07-07
+161,LG Reverse-engineered system-worthy website Electronic,Electronics,LG,307.85,204.68,1.64,Red,XXL,481,13,True,2024-03-29
+162,Nike Organic encompassing structure Clothing,Clothing,Nike,48.97,19.77,3.11,White,S,832,14,True,2025-04-02
+163,Puma Multi-tiered homogeneous emulation Sport,Sports,Puma,277.2,171.23,2.36,Gray,XL,704,37,False,2024-03-11
+164,Nike Re-engineered multi-tasking definition Sport,Sports,Nike,40.29,22.45,0.94,Red,L,699,43,True,2024-07-02
+165,Dell Implemented optimal data-warehouse Electronic,Electronics,Dell,360.33,187.88,3.74,Green,S,348,44,True,2025-04-24
+166,Reebok User-friendly systemic structure Sport,Sports,Reebok,95.65,38.95,3.4,White,S,215,25,True,2025-05-12
+167,IKEA Configurable zero tolerance benchmark Home & Garden,Home & Garden,IKEA,229.29,149.73,2.65,Green,XS,634,34,True,2023-10-04
+168,Apple Persistent encompassing array Electronic,Electronics,Apple,331.98,170.38,3.8,Gray,M,598,25,True,2025-07-19
+169,Uniqlo Inverse user-facing portal Clothing,Clothing,Uniqlo,100.03,55.57,2.57,Brown,L,467,23,True,2024-12-30
+170,Adidas Triple-buffered zero tolerance Internet solution Clothing,Clothing,Adidas,33.99,22.04,6.19,Black,XL,363,12,True,2024-10-31
+171,Sony Progressive dedicated parallelism Electronic,Electronics,Sony,382.34,218.38,4.69,Green,S,186,33,True,2023-10-25
+172,Puma Robust human-resource budgetary management Sport,Sports,Puma,211.86,135.17,2.63,Gray,L,14,26,True,2024-07-27
+173,Home Depot Configurable secondary projection Home & Garden,Home & Garden,Home Depot,12.14,7.57,2.6,Gray,M,345,37,True,2024-12-18
+174,H&M Customizable modular throughput Clothing,Clothing,H&M,137.24,88.57,7.67,Green,L,598,45,False,2023-09-28
+175,Adidas Persevering methodical initiative Clothing,Clothing,Adidas,57.68,30.29,3.7,Gray,XL,377,40,True,2024-06-02
+176,Reebok Profit-focused next generation leverage Sport,Sports,Reebok,101.99,70.69,3.18,Red,M,161,27,True,2025-01-02
+177,Samsung Mandatory fresh-thinking workforce Electronic,Electronics,Samsung,161.24,90.15,1.65,Brown,S,218,43,True,2025-03-12
+178,Dell Enhanced dynamic open system Electronic,Electronics,Dell,5.0,2.65,1.68,Green,S,759,11,True,2025-04-09
+179,Home Depot Profound tertiary portal Home & Garden,Home & Garden,Home Depot,108.61,48.15,1.75,Black,M,520,41,True,2025-01-19
+180,Puma Reactive content-based Internet solution Sport,Sports,Puma,136.71,56.47,3.24,Gray,XXL,542,39,True,2025-03-17
+181,Apple Quality-focused cohesive task-force Electronic,Electronics,Apple,502.04,329.99,3.97,Gray,XXL,133,26,True,2024-07-08
+182,Dell Fundamental clear-thinking architecture Electronic,Electronics,Dell,368.8,210.69,3.22,Black,XXL,216,33,True,2024-10-13
+183,Penguin Operative global process improvement Book,Books,Penguin,49.14,24.87,2.32,Blue,S,648,48,True,2024-04-02
+184,Penguin Reactive dynamic installation Book,Books,Penguin,5.09,2.61,1.41,Gray,M,191,10,True,2025-07-21
+185,Walmart Multi-lateral executive analyzer Home & Garden,Home & Garden,Walmart,86.38,46.33,4.61,Red,XXL,998,16,True,2024-02-05
+186,Reebok Balanced 6thgeneration leverage Sport,Sports,Reebok,167.54,107.61,1.59,White,One Size,684,22,True,2025-01-20
+187,Sony Cloned full-range portal Electronic,Electronics,Sony,5.0,3.32,5.54,White,XS,166,15,True,2025-02-15
+188,Wayfair Multi-channeled 5thgeneration superstructure Home & Garden,Home & Garden,Wayfair,12.61,7.2,3.26,Blue,One Size,718,39,True,2025-04-30
+189,Maybelline Team-oriented incremental standardization Beauty,Beauty,Maybelline,34.07,17.98,1.71,Blue,M,368,28,False,2024-07-28
+190,Nike Multi-tiered responsive project Sport,Sports,Nike,136.39,74.56,1.05,Red,XXL,148,37,False,2023-11-03
+191,Wiley Reverse-engineered client-driven neural-net Book,Books,Wiley,32.19,19.7,1.5,Black,L,751,40,False,2025-01-24
+192,IKEA Re-contextualized bifurcated adapter Home & Garden,Home & Garden,IKEA,87.19,42.5,2.02,Black,L,803,48,True,2024-11-07
+193,Home Depot Total explicit initiative Home & Garden,Home & Garden,Home Depot,46.71,21.0,1.69,Black,L,22,47,False,2024-04-11
+194,Dell Decentralized heuristic adapter Electronic,Electronics,Dell,322.07,160.63,2.63,Red,XL,628,41,True,2024-08-08
+195,Apple Function-based intermediate firmware Electronic,Electronics,Apple,231.15,130.03,1.2,Black,One Size,653,46,True,2024-03-23
+196,Zara Phased national hardware Clothing,Clothing,Zara,108.07,62.58,2.32,Black,S,987,21,True,2023-11-09
+197,Adidas Implemented uniform structure Clothing,Clothing,Adidas,97.03,39.89,3.23,Red,XXL,659,27,True,2024-12-27
+198,Samsung Right-sized web-enabled open system Electronic,Electronics,Samsung,561.91,367.47,2.1,Brown,L,429,33,True,2024-10-17
+199,Target Proactive explicit workforce Home & Garden,Home & Garden,Target,123.41,68.22,1.43,Black,One Size,523,37,True,2024-02-16
+200,Reebok Robust multi-tasking moratorium Sport,Sports,Reebok,175.57,70.57,1.6,Gray,S,887,44,True,2024-04-17
+201,Sony Adaptive uniform workforce Electronic,Electronics,Sony,182.81,121.76,1.83,Red,S,294,13,True,2024-12-24
+202,MAC Multi-layered coherent open architecture Beauty,Beauty,MAC,67.38,45.46,3.87,Blue,M,355,29,True,2025-02-12
+203,Random House Programmable background data-warehouse Book,Books,Random House,53.78,29.23,6.99,Brown,XS,106,41,True,2025-01-21
+204,Ulta Up-sized coherent core Beauty,Beauty,Ulta,45.71,22.84,3.49,Red,M,837,37,True,2025-08-06
+205,Zara Proactive regional hierarchy Clothing,Clothing,Zara,31.97,21.54,2.24,Brown,S,86,10,True,2024-12-09
+206,Target Virtual actuating complexity Home & Garden,Home & Garden,Target,200.05,97.51,2.08,Green,XL,267,26,True,2023-08-21
+207,Zara Cross-platform motivating workforce Clothing,Clothing,Zara,67.18,45.95,1.3,Blue,XS,992,30,True,2023-10-06
+208,Apple Multi-tiered motivating open architecture Electronic,Electronics,Apple,153.64,70.56,3.24,Blue,XL,141,35,True,2025-01-29
+209,Random House Synchronized 24hour system engine Book,Books,Random House,18.25,8.12,0.9,Red,L,80,42,True,2023-10-27
+210,Dell Advanced responsive synergy Electronic,Electronics,Dell,652.1,443.81,3.22,White,XS,295,39,False,2025-03-29
+211,Nike Open-source responsive focus group Sport,Sports,Nike,78.53,47.87,3.71,Green,S,975,48,True,2023-12-27
+212,Reebok Mandatory heuristic policy Sport,Sports,Reebok,5.0,3.45,2.22,Black,L,956,28,True,2023-12-13
+213,Nike Enterprise-wide asynchronous circuit Sport,Sports,Nike,194.56,103.85,1.91,Brown,One Size,768,24,False,2025-04-08
+214,Sony Secured executive parallelism Electronic,Electronics,Sony,288.84,194.77,3.39,White,S,528,22,True,2024-07-20
+215,Samsung Enhanced well-modulated complexity Electronic,Electronics,Samsung,547.98,295.07,3.01,Gray,XXL,302,18,True,2024-11-08
+216,H&M De-engineered object-oriented firmware Clothing,Clothing,H&M,121.86,70.66,5.38,Black,M,384,30,True,2024-06-17
+217,Samsung Customizable fault-tolerant customer loyalty Electronic,Electronics,Samsung,5.0,3.45,1.94,Red,XL,35,41,True,2024-09-09
+218,Uniqlo Stand-alone 24hour attitude Clothing,Clothing,Uniqlo,61.73,30.79,4.11,Red,XL,765,13,True,2024-07-31
+219,MAC Face-to-face local groupware Beauty,Beauty,MAC,60.54,41.44,4.42,Black,M,851,19,True,2023-09-05
+220,Ulta Multi-lateral regional service-desk Beauty,Beauty,Ulta,31.93,19.61,3.59,White,One Size,248,10,True,2025-03-05
+221,Reebok Open-source global migration Sport,Sports,Reebok,157.58,71.21,4.95,Black,M,487,26,True,2025-01-04
+222,Sony Seamless responsive customer loyalty Electronic,Electronics,Sony,259.51,125.83,4.64,Gray,XXL,130,37,False,2025-05-17
+223,Samsung Streamlined neutral analyzer Electronic,Electronics,Samsung,236.2,125.91,2.92,Green,L,96,20,True,2023-09-12
+224,Puma Multi-tiered 5thgeneration parallelism Sport,Sports,Puma,98.15,45.85,2.15,White,L,222,41,True,2024-04-19
+225,Walmart Grass-roots intangible archive Home & Garden,Home & Garden,Walmart,155.61,97.0,7.19,Green,One Size,819,28,True,2024-02-23
+226,MAC Profound radical algorithm Beauty,Beauty,MAC,15.04,9.49,3.31,Red,M,366,25,True,2025-06-10
+227,H&M Distributed tangible benchmark Clothing,Clothing,H&M,86.52,55.52,3.66,Red,XS,235,31,True,2025-04-10
+228,Maybelline Up-sized coherent matrices Beauty,Beauty,Maybelline,20.02,11.0,2.7,White,L,276,44,True,2024-10-14
+229,H&M Compatible optimizing neural-net Clothing,Clothing,H&M,87.18,49.52,5.1,Brown,XS,417,10,True,2025-03-22
+230,Maybelline Multi-tiered multimedia architecture Beauty,Beauty,Maybelline,61.47,28.35,3.95,Black,One Size,441,45,True,2025-04-23
+231,Uniqlo Profit-focused tangible database Clothing,Clothing,Uniqlo,122.02,53.68,3.4,Gray,S,170,20,True,2023-08-16
+232,Uniqlo Future-proofed logistical benchmark Clothing,Clothing,Uniqlo,5.0,2.04,3.65,White,XXL,125,45,True,2023-12-10
+233,Adidas Customizable upward-trending pricing structure Clothing,Clothing,Adidas,20.99,10.83,2.67,White,One Size,904,49,True,2023-08-07
+234,Sephora Integrated system-worthy superstructure Beauty,Beauty,Sephora,15.03,6.76,3.72,Brown,S,560,49,True,2025-06-12
+235,Apple Implemented fault-tolerant analyzer Electronic,Electronics,Apple,530.79,224.91,1.24,Red,M,835,44,True,2024-06-01
+236,Uniqlo Assimilated tertiary benchmark Clothing,Clothing,Uniqlo,78.69,35.73,4.58,Gray,L,842,43,True,2023-08-15
+237,Apple Synergized background initiative Electronic,Electronics,Apple,137.0,68.24,3.17,Red,M,536,13,True,2023-08-25
+238,Random House Streamlined scalable methodology Book,Books,Random House,39.98,20.56,0.74,Blue,M,74,24,True,2024-03-11
+239,Wiley Ameliorated global core Book,Books,Wiley,11.45,6.27,4.16,Red,XS,763,15,True,2025-03-30
+240,Wiley Multi-tiered interactive hub Book,Books,Wiley,25.2,12.05,2.12,Black,S,617,41,True,2025-04-30
+241,Adidas Multi-lateral full-range intranet Clothing,Clothing,Adidas,93.75,61.9,4.26,Black,XL,105,12,True,2024-03-24
+242,Nike Down-sized 4thgeneration challenge Clothing,Clothing,Nike,124.84,84.9,3.68,Blue,L,740,34,True,2023-11-03
+243,Sony De-engineered context-sensitive open system Electronic,Electronics,Sony,5.0,3.12,1.28,Red,S,115,44,True,2024-12-16
+244,Nike Multi-lateral client-driven capability Clothing,Clothing,Nike,93.2,64.27,3.85,Red,M,219,23,True,2025-05-15
+245,Zara Front-line bandwidth-monitored system engine Clothing,Clothing,Zara,37.97,18.98,3.94,Blue,M,406,42,True,2024-11-28
+246,L'Oreal Upgradable multi-tasking firmware Beauty,Beauty,L'Oreal,15.61,9.79,4.22,Gray,One Size,699,43,True,2023-11-14
+247,Sony Pre-emptive motivating adapter Electronic,Electronics,Sony,518.64,251.33,6.24,White,XL,90,13,True,2023-12-17
+248,Adidas Reverse-engineered contextually-based secured line Sport,Sports,Adidas,138.36,95.12,6.65,Red,S,57,43,True,2024-05-08
+249,Puma Down-sized global approach Sport,Sports,Puma,213.36,139.72,2.93,Blue,XXL,772,41,True,2024-06-13
+250,H&M Robust executive website Clothing,Clothing,H&M,112.75,48.82,1.38,Brown,S,921,43,True,2025-07-07
+251,Walmart Business-focused multi-tasking synergy Home & Garden,Home & Garden,Walmart,101.93,47.19,1.41,Black,L,684,29,True,2025-01-20
+252,Home Depot Vision-oriented mission-critical policy Home & Garden,Home & Garden,Home Depot,141.86,63.82,2.71,Green,XL,509,17,True,2024-01-01
+253,Apple Grass-roots holistic attitude Electronic,Electronics,Apple,227.7,96.32,3.28,Red,XS,41,12,True,2025-07-02
+254,IKEA Customer-focused 6thgeneration Internet solution Home & Garden,Home & Garden,IKEA,123.12,69.04,2.27,Brown,One Size,340,47,True,2024-12-15
+255,Target User-friendly upward-trending paradigm Home & Garden,Home & Garden,Target,136.73,91.22,2.76,White,One Size,0,42,True,2025-04-16
+256,Cambridge Object-based background capability Book,Books,Cambridge,9.88,4.21,3.46,Red,XL,486,37,True,2023-10-16
+257,Zara Fundamental 6thgeneration matrices Clothing,Clothing,Zara,79.82,45.76,4.64,Blue,M,822,13,True,2024-04-19
+258,Penguin Extended impactful matrices Book,Books,Penguin,17.94,7.78,3.38,White,M,624,11,True,2023-09-04
+259,Adidas Multi-tiered local help-desk Clothing,Clothing,Adidas,64.67,45.2,3.45,Blue,S,176,12,False,2025-08-02
+260,Target Universal non-volatile analyzer Home & Garden,Home & Garden,Target,67.91,35.83,1.24,Brown,S,649,42,True,2024-03-06
+261,Zara Persevering dedicated flexibility Clothing,Clothing,Zara,75.04,46.46,2.16,Green,L,971,12,True,2023-11-26
+262,Samsung Open-source coherent artificial intelligence Electronic,Electronics,Samsung,118.63,72.09,3.6,Red,L,10,41,True,2024-06-04
+263,MAC Object-based value-added hardware Beauty,Beauty,MAC,45.41,28.72,2.32,Brown,L,251,42,True,2023-08-20
+264,Nike Realigned well-modulated product Sport,Sports,Nike,59.37,38.1,3.76,Gray,XL,224,42,True,2024-09-11
+265,Uniqlo Expanded multimedia installation Clothing,Clothing,Uniqlo,135.97,94.78,1.71,Blue,L,346,45,True,2024-09-23
+266,Nike Open-source demand-driven ability Clothing,Clothing,Nike,49.92,24.32,1.31,Black,M,286,20,True,2025-06-11
+267,Zara Business-focused needs-based Graphic Interface Clothing,Clothing,Zara,120.46,55.57,5.3,White,S,46,15,True,2024-08-28
+268,Target Centralized attitude-oriented adapter Home & Garden,Home & Garden,Target,106.74,50.04,1.09,Red,XL,4,15,True,2023-09-29
+269,Nike Reverse-engineered zero administration Graphical User Interface Clothing,Clothing,Nike,39.69,27.57,1.62,Blue,L,382,10,False,2024-11-23
+270,Random House Fundamental leadingedge solution Book,Books,Random House,46.82,19.36,2.12,Green,XL,117,22,False,2023-12-01
+271,Nike Fully-configurable composite approach Clothing,Clothing,Nike,112.9,46.85,1.94,Gray,L,129,42,True,2025-06-28
+272,Walmart Cloned radical conglomeration Home & Garden,Home & Garden,Walmart,34.43,14.99,6.01,Green,M,64,11,False,2023-10-02
+273,Zara Multi-lateral 5thgeneration process improvement Clothing,Clothing,Zara,113.18,58.99,3.13,Green,M,264,42,True,2023-12-06
+274,Oxford Stand-alone needs-based ability Book,Books,Oxford,37.71,25.19,2.69,White,One Size,255,27,True,2024-03-29
+275,Home Depot Configurable uniform access Home & Garden,Home & Garden,Home Depot,132.04,75.6,2.73,Red,S,33,29,True,2024-09-02
+276,Reebok Fully-configurable non-volatile artificial intelligence Sport,Sports,Reebok,20.06,11.39,4.01,Blue,M,428,49,True,2024-12-29
+277,Nike Profit-focused clear-thinking framework Clothing,Clothing,Nike,90.36,59.42,2.28,Red,XXL,963,11,True,2023-09-29
+278,Uniqlo Monitored responsive approach Clothing,Clothing,Uniqlo,95.28,58.27,2.79,Green,One Size,564,31,True,2023-09-25
+279,Dell Face-to-face optimizing approach Electronic,Electronics,Dell,431.18,283.89,1.39,Blue,S,339,31,True,2025-01-04
+280,Dell Multi-channeled scalable extranet Electronic,Electronics,Dell,333.53,224.14,1.67,Gray,One Size,274,20,True,2023-11-03
+281,Sephora Ergonomic solution-oriented infrastructure Beauty,Beauty,Sephora,36.96,18.47,6.54,Red,One Size,979,17,True,2023-12-13
+282,Apple Extended global product Electronic,Electronics,Apple,92.72,51.59,1.75,White,XL,924,38,True,2024-11-02
+283,Wayfair Open-architected non-volatile Local Area Network Home & Garden,Home & Garden,Wayfair,162.86,97.67,4.51,Black,L,636,43,True,2023-12-28
+284,Nike Organized hybrid utilization Clothing,Clothing,Nike,116.42,60.88,1.92,Gray,L,585,19,True,2023-08-11
+285,Nike Phased needs-based flexibility Clothing,Clothing,Nike,48.2,31.9,1.0,Blue,One Size,81,32,True,2024-04-27
+286,Target Cross-platform upward-trending flexibility Home & Garden,Home & Garden,Target,36.01,20.59,2.74,Red,One Size,567,23,True,2024-07-16
+287,Wayfair Programmable bi-directional frame Home & Garden,Home & Garden,Wayfair,85.02,57.13,2.81,Blue,XS,241,21,True,2025-01-02
+288,Puma Innovative encompassing encryption Sport,Sports,Puma,206.61,108.14,2.48,Red,One Size,314,22,True,2024-06-22
+289,Cambridge Organic tangible standardization Book,Books,Cambridge,5.0,2.63,3.79,Blue,XL,848,17,True,2024-11-25
+290,Adidas Triple-buffered static synergy Clothing,Clothing,Adidas,117.7,74.45,1.24,White,One Size,666,12,False,2025-04-05
+291,Home Depot Operative local benchmark Home & Garden,Home & Garden,Home Depot,172.17,94.48,3.39,Green,S,355,43,True,2024-06-22
+292,Adidas Sharable bifurcated functionalities Clothing,Clothing,Adidas,109.49,60.83,1.75,Green,XL,258,29,True,2025-04-13
+293,Home Depot Cloned stable website Home & Garden,Home & Garden,Home Depot,56.32,23.83,3.97,White,XS,943,41,True,2025-04-12
+294,Samsung Ameliorated hybrid moderator Electronic,Electronics,Samsung,5.0,2.71,2.54,Red,L,592,32,True,2024-04-17
+295,Nike Diverse directional firmware Clothing,Clothing,Nike,124.34,69.3,3.13,Green,XS,584,23,True,2025-04-07
+296,H&M Grass-roots tangible website Clothing,Clothing,H&M,125.87,54.55,4.1,Gray,XXL,386,22,True,2025-06-09
+297,Apple Enterprise-wide logistical utilization Electronic,Electronics,Apple,442.52,274.92,3.22,Red,XXL,941,33,True,2024-11-10
+298,Adidas Multi-lateral zero-defect application Sport,Sports,Adidas,175.22,108.02,4.29,Green,One Size,243,35,True,2025-06-26
+299,Oxford Phased neutral help-desk Book,Books,Oxford,14.4,7.63,1.42,Black,XXL,759,18,True,2025-03-08
+300,H&M Mandatory clear-thinking system engine Clothing,Clothing,H&M,132.0,71.28,2.57,Gray,L,156,40,True,2025-01-16
+301,Sony Focused next generation throughput Electronic,Electronics,Sony,548.38,259.55,1.75,Gray,XL,149,31,True,2024-11-24
+302,Sony Down-sized tertiary matrix Electronic,Electronics,Sony,152.42,73.92,1.78,Red,XS,245,20,True,2024-10-29
+303,Dell Decentralized tertiary task-force Electronic,Electronics,Dell,653.8,379.83,2.02,Green,S,522,49,False,2023-11-08
+304,Oxford Future-proofed even-keeled time-frame Book,Books,Oxford,16.26,8.33,1.79,Red,S,819,17,True,2025-06-01
+305,IKEA Distributed upward-trending migration Home & Garden,Home & Garden,IKEA,199.57,118.54,3.1,White,S,612,49,True,2025-07-02
+306,Reebok Down-sized non-volatile extranet Sport,Sports,Reebok,5.0,2.08,2.74,White,L,662,19,True,2024-09-15
+307,Random House Synergistic bottom-line interface Book,Books,Random House,31.14,14.22,1.62,Gray,XXL,865,35,True,2025-02-04
+308,Puma Fundamental context-sensitive utilization Sport,Sports,Puma,18.33,9.34,2.92,Blue,L,363,16,True,2025-02-11
+309,Puma Stand-alone 24hour pricing structure Sport,Sports,Puma,194.06,82.61,4.87,Green,XXL,148,27,False,2024-06-20
+310,Samsung Synergized zero-defect matrix Electronic,Electronics,Samsung,582.92,244.3,3.11,Gray,XXL,94,11,True,2025-06-28
+311,Home Depot Profound value-added matrix Home & Garden,Home & Garden,Home Depot,23.71,12.85,10.61,Green,XXL,948,17,True,2025-04-17
+312,H&M Fundamental tertiary methodology Clothing,Clothing,H&M,133.86,63.49,2.41,Black,XL,512,12,True,2024-07-21
+313,Reebok Profit-focused attitude-oriented middleware Sport,Sports,Reebok,105.69,62.58,4.24,Red,L,613,40,False,2024-06-07
+314,Random House Team-oriented scalable contingency Book,Books,Random House,19.23,7.85,6.66,Red,XXL,11,24,True,2025-06-06
+315,IKEA Balanced incremental solution Home & Garden,Home & Garden,IKEA,101.63,53.03,2.04,Blue,L,638,46,True,2023-11-22
+316,Nike Universal value-added application Clothing,Clothing,Nike,67.18,33.42,2.49,Green,M,844,47,True,2024-10-10
+317,Adidas Networked non-volatile portal Clothing,Clothing,Adidas,48.4,28.34,6.31,Green,M,768,46,True,2023-12-27
+318,Adidas Reduced human-resource flexibility Sport,Sports,Adidas,125.67,86.73,3.21,Black,XXL,70,11,True,2024-02-29
+319,Adidas Fully-configurable stable success Clothing,Clothing,Adidas,42.02,19.98,5.03,Black,XXL,947,16,True,2024-05-09
+320,Wayfair Visionary solution-oriented hardware Home & Garden,Home & Garden,Wayfair,33.5,22.4,2.56,White,S,174,23,True,2023-08-21
+321,Nike Total radical migration Sport,Sports,Nike,238.95,132.45,2.01,Blue,L,489,26,True,2024-08-07
+322,Cambridge Reactive directional capacity Book,Books,Cambridge,23.04,11.41,2.79,Brown,XS,705,20,False,2025-01-26
+323,Apple Synchronized empowering methodology Electronic,Electronics,Apple,336.71,224.39,4.23,Black,S,632,43,True,2023-11-24
+324,Uniqlo Exclusive national product Clothing,Clothing,Uniqlo,113.31,45.8,3.36,White,XL,893,14,True,2023-08-13
+325,Samsung Compatible solution-oriented intranet Electronic,Electronics,Samsung,343.66,161.11,2.7,Gray,XXL,156,26,True,2025-06-01
+326,Adidas Triple-buffered empowering contingency Clothing,Clothing,Adidas,45.72,24.71,3.39,Brown,S,976,12,True,2024-09-13
+327,Under Armour Organic interactive secured line Sport,Sports,Under Armour,304.23,126.04,1.61,White,M,381,25,True,2025-03-12
+328,Puma De-engineered intermediate customer loyalty Sport,Sports,Puma,233.87,129.06,1.83,Red,XL,629,30,True,2023-08-10
+329,Oxford Optional homogeneous groupware Book,Books,Oxford,43.74,20.0,4.79,Red,L,6,12,True,2023-12-04
+330,Reebok Multi-layered disintermediate model Sport,Sports,Reebok,182.88,96.79,2.89,Red,XS,654,26,True,2024-03-02
+331,Reebok Compatible 24hour hub Sport,Sports,Reebok,268.01,142.17,2.87,Red,L,798,22,True,2024-06-25
+332,Under Armour Profound multi-state encryption Sport,Sports,Under Armour,5.0,3.3,3.77,Green,One Size,923,47,True,2024-11-09
+333,Nike Customer-focused high-level challenge Clothing,Clothing,Nike,56.42,24.32,2.61,Green,L,565,41,True,2024-11-03
+334,Walmart Diverse coherent groupware Home & Garden,Home & Garden,Walmart,94.6,52.25,1.38,Black,S,898,32,True,2024-05-05
+335,Sony Grass-roots directional protocol Electronic,Electronics,Sony,600.47,325.78,1.74,Black,XL,771,17,True,2024-12-04
+336,Oxford Implemented mission-critical customer loyalty Book,Books,Oxford,5.0,3.28,2.48,Black,S,793,44,True,2024-02-15
+337,Nike Ergonomic static Graphical User Interface Clothing,Clothing,Nike,87.22,51.52,1.69,Black,S,404,41,False,2023-11-08
+338,Adidas Automated bi-directional analyzer Clothing,Clothing,Adidas,71.05,45.41,5.44,Brown,XS,96,46,True,2024-11-27
+339,Home Depot Stand-alone static software Home & Garden,Home & Garden,Home Depot,71.33,32.14,3.0,Black,M,571,27,True,2023-12-24
+340,Uniqlo Networked impactful product Clothing,Clothing,Uniqlo,133.2,62.18,3.96,Green,M,903,47,True,2025-02-26
+341,Zara Team-oriented 3rdgeneration contingency Clothing,Clothing,Zara,95.81,49.96,4.06,Green,XS,234,18,True,2025-04-14
+342,L'Oreal Innovative 5thgeneration knowledge user Beauty,Beauty,L'Oreal,30.12,19.32,4.02,Black,One Size,899,22,True,2024-07-29
+343,H&M Phased zero-defect portal Clothing,Clothing,H&M,130.1,84.66,2.31,Blue,One Size,155,20,True,2024-07-07
+344,Adidas Reduced leadingedge functionalities Sport,Sports,Adidas,303.52,193.07,4.63,Black,XS,540,35,True,2023-09-29
+345,Puma Secured hybrid archive Sport,Sports,Puma,68.53,45.53,0.54,Gray,One Size,860,29,True,2024-02-29
+346,MAC Vision-oriented attitude-oriented process improvement Beauty,Beauty,MAC,27.45,13.97,1.72,Gray,L,214,35,False,2025-07-04
+347,Uniqlo Business-focused full-range extranet Clothing,Clothing,Uniqlo,125.02,60.47,2.47,White,S,112,34,True,2024-10-30
+348,L'Oreal Innovative neutral functionalities Beauty,Beauty,L'Oreal,82.92,52.94,3.34,White,XXL,900,38,True,2025-04-01
+349,L'Oreal Enterprise-wide heuristic conglomeration Beauty,Beauty,L'Oreal,8.14,3.85,2.14,Gray,XS,327,30,True,2024-04-01
+350,LG Robust composite challenge Electronic,Electronics,LG,481.21,298.61,3.86,Gray,One Size,649,30,True,2024-07-18
+351,Adidas Vision-oriented zero-defect function Sport,Sports,Adidas,174.27,71.89,0.93,Green,One Size,381,43,True,2024-10-25
+352,Nike Fully-configurable tangible workforce Clothing,Clothing,Nike,53.68,36.74,1.74,Blue,M,691,14,True,2024-12-18
+353,Nike Function-based static hub Clothing,Clothing,Nike,32.97,19.14,3.92,Black,XXL,382,14,True,2024-04-25
+354,LG Ergonomic web-enabled productivity Electronic,Electronics,LG,120.55,56.26,2.86,Green,L,296,20,True,2025-07-29
+355,Ulta Intuitive high-level extranet Beauty,Beauty,Ulta,81.35,56.25,2.69,Blue,XXL,897,40,False,2025-01-17
+356,Samsung Focused full-range adapter Electronic,Electronics,Samsung,5.0,2.41,2.57,Green,XXL,192,41,True,2024-01-20
+357,Target Balanced dedicated secured line Home & Garden,Home & Garden,Target,53.46,28.2,4.01,Blue,M,363,41,True,2023-11-11
+358,Under Armour Reduced solution-oriented interface Sport,Sports,Under Armour,236.34,112.52,1.54,Brown,L,365,40,False,2024-07-24
+359,Cambridge Digitized multi-tasking help-desk Book,Books,Cambridge,23.7,14.36,1.86,Green,S,143,40,True,2025-05-24
+360,H&M Visionary actuating contingency Clothing,Clothing,H&M,38.77,16.46,3.3,Red,One Size,959,23,True,2024-05-08
+361,IKEA Optimized systemic paradigm Home & Garden,Home & Garden,IKEA,138.89,71.82,3.96,Brown,XL,389,19,True,2024-05-08
+362,Uniqlo Persistent web-enabled orchestration Clothing,Clothing,Uniqlo,119.96,60.74,2.34,Gray,One Size,187,25,False,2023-10-22
+363,Ulta Synergized web-enabled migration Beauty,Beauty,Ulta,80.94,38.9,2.83,Red,S,372,20,True,2023-10-18
+364,Nike Up-sized discrete concept Clothing,Clothing,Nike,136.3,85.72,2.39,Blue,L,735,11,True,2023-09-13
+365,Nike Enterprise-wide user-facing solution Clothing,Clothing,Nike,11.19,7.48,1.54,White,XXL,739,34,True,2025-06-12
+366,Adidas Face-to-face bandwidth-monitored synergy Sport,Sports,Adidas,99.27,42.23,4.91,Black,XS,366,36,True,2024-10-11
+367,Reebok Horizontal bi-directional access Sport,Sports,Reebok,105.7,48.43,4.7,Black,S,88,12,True,2025-07-07
+368,Under Armour Phased explicit extranet Sport,Sports,Under Armour,159.88,93.6,1.53,Brown,One Size,87,20,True,2025-05-22
+369,Cambridge Fundamental 5thgeneration neural-net Book,Books,Cambridge,51.06,30.67,2.52,Gray,XL,712,27,True,2024-04-27
+370,Maybelline Optional systemic concept Beauty,Beauty,Maybelline,23.09,15.0,2.02,Gray,M,346,44,True,2025-02-23
+371,Oxford Customizable bi-directional data-warehouse Book,Books,Oxford,48.2,28.67,5.9,Gray,S,532,23,True,2025-03-22
+372,Reebok Front-line context-sensitive open architecture Sport,Sports,Reebok,123.89,75.95,2.28,Black,L,257,31,True,2024-10-16
+373,Apple Robust impactful benchmark Electronic,Electronics,Apple,224.68,99.88,2.43,Black,M,278,46,True,2024-01-14
+374,Wayfair Organized needs-based info-mediaries Home & Garden,Home & Garden,Wayfair,164.18,69.34,3.88,Blue,XXL,170,48,True,2024-12-31
+375,LG Programmable well-modulated definition Electronic,Electronics,LG,27.26,16.08,2.93,Black,XXL,18,42,True,2024-06-18
+376,Uniqlo Function-based hybrid archive Clothing,Clothing,Uniqlo,102.74,59.05,2.18,Brown,L,981,35,True,2025-04-06
+377,IKEA Automated well-modulated application Home & Garden,Home & Garden,IKEA,103.41,60.9,2.86,Brown,S,367,29,True,2024-12-21
+378,Uniqlo Object-based local flexibility Clothing,Clothing,Uniqlo,68.79,47.81,2.39,Green,S,945,37,True,2024-08-17
+379,Sony Stand-alone logistical pricing structure Electronic,Electronics,Sony,447.54,311.7,3.81,Gray,M,504,11,False,2023-09-01
+380,Home Depot Multi-channeled actuating artificial intelligence Home & Garden,Home & Garden,Home Depot,138.37,79.03,3.25,Red,One Size,413,46,True,2024-08-31
+381,Apple Multi-tiered systemic flexibility Electronic,Electronics,Apple,474.34,304.07,1.57,Gray,XL,783,25,True,2025-05-12
+382,Adidas Synchronized bottom-line access Clothing,Clothing,Adidas,50.93,29.36,2.47,White,L,145,43,True,2024-07-03
+383,Target Assimilated tertiary product Home & Garden,Home & Garden,Target,104.2,53.13,1.86,White,XXL,801,40,True,2024-12-12
+384,Zara Function-based multi-tasking solution Clothing,Clothing,Zara,70.65,48.43,4.38,Black,XS,998,30,True,2024-12-03
+385,Wiley User-centric foreground groupware Book,Books,Wiley,39.02,26.46,2.08,Gray,M,949,45,True,2024-12-23
+386,Apple Synergized empowering frame Electronic,Electronics,Apple,187.36,96.92,1.79,Black,S,844,14,True,2024-05-14
+387,MAC Virtual empowering circuit Beauty,Beauty,MAC,21.78,13.32,2.05,Green,XXL,506,16,True,2024-05-06
+388,Apple Business-focused content-based superstructure Electronic,Electronics,Apple,340.81,196.53,4.12,White,M,111,38,True,2023-09-04
+389,Oxford Self-enabling multi-tasking collaboration Book,Books,Oxford,25.83,13.33,2.67,Red,M,497,18,True,2023-09-11
+390,Reebok Upgradable 24hour Local Area Network Sport,Sports,Reebok,116.69,46.98,1.37,Black,S,345,11,True,2025-04-06
+391,Reebok Intuitive local conglomeration Sport,Sports,Reebok,216.42,94.21,1.67,White,S,617,26,True,2024-05-17
+392,Adidas Customizable empowering firmware Sport,Sports,Adidas,33.57,13.97,1.04,Black,XXL,716,17,True,2025-02-21
+393,L'Oreal Triple-buffered didactic analyzer Beauty,Beauty,L'Oreal,5.0,2.39,2.8,Brown,XXL,142,27,True,2024-08-19
+394,Under Armour Future-proofed zero tolerance core Sport,Sports,Under Armour,100.81,61.88,3.29,Red,L,725,39,True,2024-07-06
+395,L'Oreal Versatile executive encoding Beauty,Beauty,L'Oreal,5.0,2.76,2.95,Blue,XS,31,35,True,2023-08-14
+396,Nike Fundamental even-keeled groupware Clothing,Clothing,Nike,50.16,20.13,7.11,Black,XL,664,26,True,2023-12-31
+397,Random House Down-sized 5thgeneration Internet solution Book,Books,Random House,18.58,11.77,3.56,Green,XL,201,19,True,2023-09-21
+398,Target Programmable tertiary approach Home & Garden,Home & Garden,Target,52.65,34.25,2.43,Green,XS,184,48,True,2024-09-11
+399,Adidas Adaptive client-driven superstructure Clothing,Clothing,Adidas,114.03,78.36,8.03,Blue,XS,940,32,True,2024-04-26
+400,Walmart Ameliorated 6thgeneration workforce Home & Garden,Home & Garden,Walmart,202.63,140.02,1.83,Brown,One Size,804,28,True,2023-12-09
+401,Target Multi-tiered explicit neural-net Home & Garden,Home & Garden,Target,47.42,32.7,1.09,Blue,One Size,800,33,True,2025-06-07
+402,Samsung Up-sized fresh-thinking array Electronic,Electronics,Samsung,311.85,200.83,3.49,Brown,XS,132,25,False,2025-04-10
+403,Sony Ergonomic systemic algorithm Electronic,Electronics,Sony,310.05,148.95,4.33,Gray,S,620,11,True,2025-02-25
+404,Samsung De-engineered homogeneous collaboration Electronic,Electronics,Samsung,5.0,3.38,2.11,Red,XXL,555,11,True,2025-07-31
+405,Cambridge Optional incremental help-desk Book,Books,Cambridge,41.27,18.47,1.76,Black,XL,47,45,True,2025-04-05
+406,Uniqlo Devolved tangible parallelism Clothing,Clothing,Uniqlo,51.12,24.8,2.56,White,S,820,49,True,2024-05-21
+407,Zara Cloned uniform migration Clothing,Clothing,Zara,15.66,6.88,3.19,Black,One Size,496,31,True,2024-11-06
+408,Zara Assimilated static complexity Clothing,Clothing,Zara,92.58,37.88,2.82,Green,XXL,153,31,True,2024-02-09
+409,Nike Right-sized transitional time-frame Clothing,Clothing,Nike,77.45,36.61,4.81,Gray,XL,479,17,True,2024-08-04
+410,Uniqlo Realigned scalable frame Clothing,Clothing,Uniqlo,100.76,58.84,4.75,Green,XXL,517,47,True,2024-01-18
+411,Oxford Cross-platform foreground workforce Book,Books,Oxford,15.3,7.12,2.75,Brown,M,614,16,True,2025-07-20
+412,Samsung Exclusive 4thgeneration groupware Electronic,Electronics,Samsung,225.55,126.34,2.21,Black,M,717,28,True,2024-02-21
+413,Home Depot Future-proofed bifurcated product Home & Garden,Home & Garden,Home Depot,83.64,45.56,3.74,Red,XS,158,45,True,2024-02-10
+414,Dell Persevering bifurcated projection Electronic,Electronics,Dell,403.15,183.79,3.92,White,One Size,205,14,True,2024-02-22
+415,Reebok Customizable actuating Graphical User Interface Sport,Sports,Reebok,116.94,79.2,1.8,Red,One Size,643,40,True,2025-05-08
+416,Samsung Upgradable methodical architecture Electronic,Electronics,Samsung,357.01,155.69,2.88,Brown,XS,80,41,False,2024-11-03
+417,Nike Robust optimizing methodology Sport,Sports,Nike,47.91,21.24,0.99,Green,S,674,10,True,2023-11-13
+418,Samsung Customizable discrete moderator Electronic,Electronics,Samsung,422.61,218.92,2.03,White,XXL,924,46,True,2024-08-30
+419,L'Oreal Cross-group 5thgeneration extranet Beauty,Beauty,L'Oreal,58.92,30.17,5.25,White,XS,855,14,True,2023-10-05
+420,Uniqlo Grass-roots fault-tolerant project Clothing,Clothing,Uniqlo,32.32,22.43,1.89,White,One Size,675,42,True,2025-05-07
+421,Reebok User-friendly systematic superstructure Sport,Sports,Reebok,171.12,77.13,1.94,Blue,XXL,263,36,True,2024-04-26
+422,Samsung Automated bottom-line benchmark Electronic,Electronics,Samsung,482.03,315.36,2.2,Blue,XXL,362,39,True,2024-02-24
+423,Cambridge Persistent content-based Internet solution Book,Books,Cambridge,29.43,14.59,3.26,White,M,46,20,True,2024-01-14
+424,Samsung Decentralized tangible circuit Electronic,Electronics,Samsung,188.16,122.97,1.04,Red,One Size,414,49,True,2024-01-25
+425,Random House Team-oriented optimizing project Book,Books,Random House,20.37,9.02,1.19,Green,One Size,24,29,True,2024-04-14
+426,Apple Horizontal attitude-oriented application Electronic,Electronics,Apple,12.55,6.09,7.54,White,XXL,246,15,True,2024-04-05
+427,H&M Front-line client-server toolset Clothing,Clothing,H&M,85.85,50.23,4.07,Red,XS,322,24,True,2025-03-01
+428,Nike Persevering upward-trending challenge Sport,Sports,Nike,226.27,117.86,1.68,Green,L,10,34,True,2024-05-23
+429,L'Oreal Ergonomic cohesive model Beauty,Beauty,L'Oreal,32.57,17.37,7.64,Red,XL,178,22,True,2024-02-27
+430,Random House Intuitive even-keeled extranet Book,Books,Random House,5.0,3.48,3.56,Black,M,879,42,True,2025-05-05
+431,H&M Universal foreground adapter Clothing,Clothing,H&M,80.94,50.97,1.37,Gray,XS,741,25,True,2024-06-15
+432,Wayfair Multi-lateral asynchronous throughput Home & Garden,Home & Garden,Wayfair,120.25,74.39,3.24,Blue,M,274,22,True,2024-05-09
+433,Apple Extended value-added secured line Electronic,Electronics,Apple,305.21,205.19,6.9,Brown,One Size,426,19,True,2025-01-12
+434,Maybelline Cross-group static Graphical User Interface Beauty,Beauty,Maybelline,55.51,23.36,1.28,Black,XXL,99,44,True,2025-06-27
+435,Wayfair Future-proofed transitional analyzer Home & Garden,Home & Garden,Wayfair,87.24,48.05,2.37,Red,M,109,40,True,2025-06-02
+436,Uniqlo Horizontal dynamic core Clothing,Clothing,Uniqlo,85.77,51.58,2.36,Brown,XL,716,15,True,2025-02-18
+437,Target Organized upward-trending encryption Home & Garden,Home & Garden,Target,117.21,75.04,2.09,Gray,S,454,43,True,2023-09-28
+438,Penguin Open-source intermediate structure Book,Books,Penguin,44.15,21.38,4.31,White,XL,847,20,True,2023-10-06
+439,Wayfair Self-enabling mission-critical moratorium Home & Garden,Home & Garden,Wayfair,5.04,3.42,3.87,Blue,M,852,38,True,2024-05-08
+440,Penguin Compatible systematic portal Book,Books,Penguin,22.97,12.43,4.01,Gray,One Size,630,43,False,2024-12-19
+441,Adidas Reduced eco-centric system engine Sport,Sports,Adidas,231.85,114.15,1.56,Brown,S,57,36,True,2023-12-28
+442,L'Oreal Universal client-server customer loyalty Beauty,Beauty,L'Oreal,73.16,37.79,3.61,Red,XS,221,35,True,2023-10-12
+443,IKEA Advanced explicit hub Home & Garden,Home & Garden,IKEA,128.37,70.58,3.66,Red,M,201,21,True,2023-09-30
+444,Adidas Digitized full-range knowledge user Sport,Sports,Adidas,205.75,106.8,4.7,Blue,L,20,39,True,2024-12-27
+445,Cambridge Diverse cohesive toolset Book,Books,Cambridge,15.24,9.37,2.07,Red,XS,213,14,True,2024-12-26
+446,Uniqlo Grass-roots eco-centric info-mediaries Clothing,Clothing,Uniqlo,68.54,40.79,1.75,Green,S,475,44,True,2023-10-25
+447,Wayfair Persevering analyzing forecast Home & Garden,Home & Garden,Wayfair,45.88,25.36,1.99,White,S,372,17,True,2025-06-16
+448,Uniqlo Grass-roots systematic projection Clothing,Clothing,Uniqlo,63.22,35.9,1.52,Red,L,461,44,True,2024-02-09
+449,Maybelline Reverse-engineered maximized capability Beauty,Beauty,Maybelline,46.18,26.84,2.19,Brown,L,825,14,True,2023-08-08
+450,Apple Versatile uniform analyzer Electronic,Electronics,Apple,658.78,432.46,7.62,Green,M,61,49,True,2025-06-30
+451,Apple Decentralized eco-centric protocol Electronic,Electronics,Apple,71.86,38.54,3.98,Gray,L,47,29,False,2023-11-07
+452,Puma Operative scalable benchmark Sport,Sports,Puma,76.13,38.65,2.57,Black,One Size,398,24,True,2024-10-29
+453,Zara Versatile 24hour portal Clothing,Clothing,Zara,71.62,42.08,2.91,Gray,M,306,23,True,2024-06-20
+454,Wiley Open-architected grid-enabled interface Book,Books,Wiley,36.29,16.26,7.09,Black,XXL,659,43,True,2023-08-29
+455,Maybelline Public-key intermediate solution Beauty,Beauty,Maybelline,58.2,25.29,5.0,Black,L,306,17,True,2025-04-07
+456,Samsung Profit-focused systemic toolset Electronic,Electronics,Samsung,493.15,344.15,5.07,White,L,732,25,True,2025-02-13
+457,Walmart Total next generation task-force Home & Garden,Home & Garden,Walmart,88.0,43.43,2.89,Brown,XXL,29,39,False,2024-03-10
+458,Sephora Ergonomic regional encoding Beauty,Beauty,Sephora,103.99,59.74,3.86,Brown,L,830,12,True,2025-01-16
+459,Nike Streamlined mission-critical productivity Clothing,Clothing,Nike,86.59,35.09,2.33,Black,One Size,426,17,True,2024-05-18
+460,Nike Multi-lateral empowering framework Clothing,Clothing,Nike,115.28,72.32,3.32,Gray,L,899,25,True,2023-10-19
+461,Maybelline Function-based maximized leverage Beauty,Beauty,Maybelline,67.32,40.13,5.12,White,XS,283,49,True,2024-12-18
+462,H&M Decentralized value-added support Clothing,Clothing,H&M,50.64,23.33,3.21,Green,XXL,58,47,True,2024-03-04
+463,IKEA Fundamental demand-driven firmware Home & Garden,Home & Garden,IKEA,5.0,2.86,1.98,Red,S,686,43,False,2024-03-14
+464,Wiley Ergonomic bi-directional database Book,Books,Wiley,35.08,14.82,4.78,Black,One Size,848,45,False,2024-01-05
+465,Walmart User-friendly demand-driven model Home & Garden,Home & Garden,Walmart,133.98,85.7,3.59,Green,XXL,142,40,True,2024-06-02
+466,Walmart Automated grid-enabled forecast Home & Garden,Home & Garden,Walmart,25.66,17.91,4.3,Black,S,856,44,True,2024-07-20
+467,LG Team-oriented 6thgeneration knowledgebase Electronic,Electronics,LG,467.06,198.45,6.68,White,L,52,16,True,2025-08-04
+468,Samsung Proactive optimal time-frame Electronic,Electronics,Samsung,147.28,62.12,2.13,White,XL,642,13,False,2024-10-14
+469,Puma Intuitive mission-critical hardware Sport,Sports,Puma,186.39,82.52,2.93,Green,M,341,41,True,2024-04-15
+470,Adidas Compatible transitional data-warehouse Sport,Sports,Adidas,119.76,74.51,2.21,Brown,L,61,18,True,2023-11-15
+471,Apple Vision-oriented national structure Electronic,Electronics,Apple,159.44,108.93,1.98,Green,XL,53,15,True,2024-06-25
+472,Apple Distributed explicit time-frame Electronic,Electronics,Apple,268.6,150.85,3.6,Green,M,415,38,True,2023-09-16
+473,L'Oreal Upgradable disintermediate utilization Beauty,Beauty,L'Oreal,70.54,48.14,3.49,Gray,One Size,329,45,False,2024-03-16
+474,Penguin Ameliorated attitude-oriented application Book,Books,Penguin,32.3,18.9,5.11,Brown,XS,186,40,True,2023-09-03
+475,Nike Down-sized dynamic analyzer Sport,Sports,Nike,187.54,123.87,3.28,White,XL,385,31,True,2024-03-14
+476,Dell Vision-oriented global capability Electronic,Electronics,Dell,39.1,16.19,4.88,Black,L,274,14,True,2024-12-02
+477,Puma Inverse zero administration architecture Sport,Sports,Puma,137.81,60.39,2.03,Red,XS,587,34,False,2025-06-07
+478,Wayfair Devolved solution-oriented analyzer Home & Garden,Home & Garden,Wayfair,9.54,4.41,2.67,Red,L,342,14,True,2023-12-13
+479,Samsung Grass-roots leadingedge knowledgebase Electronic,Electronics,Samsung,564.86,359.85,3.68,Green,One Size,548,35,True,2024-07-01
+480,Walmart Team-oriented full-range function Home & Garden,Home & Garden,Walmart,148.82,76.47,3.31,Brown,S,475,27,True,2025-06-01
+481,Wiley Triple-buffered intermediate challenge Book,Books,Wiley,18.87,10.65,3.19,Gray,XXL,751,22,True,2025-02-08
+482,Penguin Diverse uniform extranet Book,Books,Penguin,34.99,20.55,3.14,Blue,One Size,768,17,True,2023-09-18
+483,Reebok Digitized bandwidth-monitored synergy Sport,Sports,Reebok,124.09,78.24,3.17,White,L,203,37,True,2024-07-04
+484,Random House Front-line reciprocal portal Book,Books,Random House,46.37,30.32,3.97,Red,XS,557,18,True,2023-11-28
+485,Home Depot De-engineered incremental focus group Home & Garden,Home & Garden,Home Depot,88.2,57.52,4.05,White,One Size,985,24,True,2023-09-09
+486,Apple Front-line uniform analyzer Electronic,Electronics,Apple,5.0,2.94,0.97,Brown,S,884,24,True,2024-12-25
+487,Under Armour Versatile multi-tasking neural-net Sport,Sports,Under Armour,237.44,141.97,2.79,Gray,XL,585,17,True,2024-12-21
+488,Adidas Integrated non-volatile access Sport,Sports,Adidas,140.27,81.0,1.73,Green,XL,872,14,True,2024-02-04
+489,Cambridge Business-focused holistic time-frame Book,Books,Cambridge,13.75,9.15,3.86,Blue,M,334,31,True,2024-08-24
+490,Uniqlo Down-sized modular capability Clothing,Clothing,Uniqlo,58.94,39.74,1.23,Blue,XS,492,31,True,2025-02-01
+491,Apple Exclusive interactive matrix Electronic,Electronics,Apple,355.2,227.82,1.66,White,XXL,612,42,True,2025-02-15
+492,Oxford Diverse scalable open architecture Book,Books,Oxford,34.09,16.16,6.86,Red,M,370,44,True,2024-06-01
+493,H&M Cross-group cohesive capacity Clothing,Clothing,H&M,90.72,47.57,3.04,Brown,M,367,13,True,2024-01-16
+494,Home Depot Enhanced didactic challenge Home & Garden,Home & Garden,Home Depot,72.77,39.67,1.85,White,One Size,570,15,True,2023-10-21
+495,Penguin Proactive 6thgeneration Graphic Interface Book,Books,Penguin,19.89,10.98,6.21,Green,XL,84,26,True,2024-04-21
+496,Nike Inverse mobile product Sport,Sports,Nike,9.68,5.13,1.6,Red,S,804,40,False,2025-06-16
+497,H&M Compatible tangible moderator Clothing,Clothing,H&M,121.93,58.62,2.73,Blue,S,395,26,True,2023-08-24
+498,Sephora Expanded coherent methodology Beauty,Beauty,Sephora,33.37,18.24,3.53,Gray,L,300,23,True,2024-07-01
+499,Walmart Secured logistical Internet solution Home & Garden,Home & Garden,Walmart,93.9,40.78,0.93,Red,One Size,331,15,True,2024-02-16
+500,Nike Secured transitional architecture Sport,Sports,Nike,54.93,33.01,2.16,Green,XXL,403,11,False,2023-11-24

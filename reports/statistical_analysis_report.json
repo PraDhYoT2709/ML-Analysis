@@ -1,0 +1,215 @@
+{
+  "analysis_date": "2025-08-07T06:57:14.814299",
+  "data_summary": {
+    "customers": 10000,
+    "orders": 9,
+    "products": 500,
+    "sessions": 115351
+  },
+  "key_findings": [
+    "Average customer age is 34.9 years",
+    "No significant gender differences in order values",
+    "A/B test shows 20.0% relative improvement in conversion rate"
+  ],
+  "recommendations": [
+    "Continue monitoring customer demographics for targeting strategies",
+    "Implement A/B testing framework for website optimizations",
+    "Focus retention efforts on high-churn-probability customers",
+    "Leverage correlation insights for cross-selling opportunities",
+    "Use statistical significance testing for all business decisions"
+  ],
+  "statistical_results": {
+    "descriptive_statistics": {
+      "customer_demographics": {
+        "age_stats": {
+          "count": 10000.0,
+          "mean": 34.9163,
+          "std": 11.265415450329689,
+          "min": 18.0,
+          "25%": 26.0,
+          "50%": 34.0,
+          "75%": 43.0,
+          "max": 77.0
+        },
+        "gender_distribution": {
+          "Female": 50.79,
+          "Male": 47.33,
+          "Other": 1.8800000000000001
+        }
+      },
+      "order_value_analysis": {
+        "stats": {
+          "count": 7.0,
+          "mean": 394.3128571428571,
+          "std": 350.8822061943431,
+          "min": 54.99,
+          "25%": 133.075,
+          "50%": 311.01,
+          "75%": 544.3149999999999,
+          "max": 1039.41
+        },
+        "coefficient_of_variation": 88.98573806007563
+      },
+      "product_performance": {
+        "quantity": {
+          "Electronics": 7,
+          "Home & Garden": 4,
+          "Clothing": 3,
+          "Books": 5,
+          "Beauty": 1,
+          "Sports": 1
+        },
+        "total_price": {
+          "Electronics": 1930.8799999999999,
+          "Home & Garden": 317.59000000000003,
+          "Clothing": 213.37,
+          "Books": 171.39999999999998,
+          "Beauty": 67.56,
+          "Sports": 47.91
+        }
+      },
+      "session_analysis": {
+        "duration_stats": {
+          "count": 115351.0,
+          "mean": 243.5611308094425,
+          "std": 316.80712550337375,
+          "min": 1.0,
+          "25%": 75.0,
+          "50%": 148.0,
+          "75%": 290.0,
+          "max": 7200.0
+        },
+        "bounce_rate": 22.07956584685005
+      }
+    },
+    "hypothesis_tests": {
+      "gender_order_value_test": {
+        "t_statistic": 1.0337335287034903,
+        "p_value": 0.34864532463779024,
+        "cohens_d": 0.8648835215542257,
+        "male_mean": 609.85,
+        "female_mean": 308.09799999999996,
+        "significant": "False"
+      },
+      "conversion_rate_test": {
+        "chi2_statistic": 8.76813427329071,
+        "p_value": 0.11867763814742913,
+        "degrees_of_freedom": 5,
+        "conversion_rates": {
+          "total_sessions": {
+            "Direct": 28659,
+            "Email": 11390,
+            "Organic Search": 40232,
+            "Paid Search": 11809,
+            "Referral": 5898,
+            "Social Media": 17363
+          },
+          "conversions": {
+            "Direct": 0,
+            "Email": 0,
+            "Organic Search": 0,
+            "Paid Search": 1,
+            "Referral": 0,
+            "Social Media": 0
+          },
+          "conversion_rate": {
+            "Direct": 0.0,
+            "Email": 0.0,
+            "Organic Search": 0.0,
+            "Paid Search": 8.46811753747142e-05,
+            "Referral": 0.0,
+            "Social Media": 0.0
+          }
+        },
+        "significant": "False"
+      },
+      "normality_test": {
+        "statistic": NaN,
+        "p_value": NaN,
+        "skewness": 0.8457123607524514,
+        "kurtosis": -0.4252597820013402,
+        "is_normal": "False"
+      }
+    },
+    "correlation_analysis": {
+      "age_order_value_correlation": {
+        "pearson_r": -0.39516063482122993,
+        "pearson_p": 0.38028065226502356,
+        "spearman_r": -0.5122717640554155,
+        "spearman_p": 0.2398053912767625,
+        "strength": "moderate",
+        "direction": "negative"
+      },
+      "session_duration_conversion": {
+        "converted_mean_duration": 352.0,
+        "non_converted_mean_duration": 243.56019072388384,
+        "u_statistic": 93067.0,
+        "p_value": 0.28785215671951625,
+        "significant": "False"
+      },
+      "rating_sales_correlation": {
+        "products_analyzed": 2,
+        "pearson_r": NaN,
+        "pearson_p": NaN,
+        "spearman_r": NaN,
+        "spearman_p": NaN,
+        "strength": "very strong",
+        "direction": "negative"
+      }
+    },
+    "ab_testing": {
+      "ab_test_simulation": {
+        "control_conversion_rate": 0.05,
+        "treatment_conversion_rate": 0.06,
+        "z_statistic": -2.193172316532562,
+        "p_value": 0.02829496629023119,
+        "significant": "True",
+        "absolute_difference": 0.009999999999999995,
+        "relative_improvement": 19.99999999999999,
+        "confidence_interval": [
+          0.0010653232850874744,
+          0.018934676714912516
+        ],
+        "effect_size": 0.04588314677411233,
+        "statistical_power": 0.9004013148884341
+      }
+    },
+    "advanced_modeling": {
+      "clv_distribution": {
+        "statistics": {
+          "count": 7.0,
+          "mean": 786.5471428571428,
+          "std": 1237.3292666022558,
+          "min": 16.84,
+          "25%": 97.8,
+          "50%": 216.47,
+          "75%": 797.66,
+          "max": 3481.6
+        },
+        "skewness": 1.7370795852685708,
+        "kurtosis": 1.4521582573411562,
+        "best_distribution": "norm",
+        "best_p_value": 0.48288563469552603
+      },
+      "churn_analysis": {
+        "mean_churn_prob": 0.5714285714285714,
+        "median_churn_prob": 0.7,
+        "std_churn_prob": 0.30394235042348466,
+        "risk_categories": {
+          "low_risk": {
+            "count": "2",
+            "percentage": 28.57142857142857
+          },
+          "medium_risk": {
+            "count": "3",
+            "percentage": 42.857142857142854
+          },
+          "high_risk": {
+            "count": "2",
+            "percentage": 28.57142857142857
+          }
+        }
+      }
+    }
+  }
+}
