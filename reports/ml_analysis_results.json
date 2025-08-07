@@ -1,0 +1,77 @@
+{
+  "customer_segmentation": {
+    "method": "K-means",
+    "n_clusters": 2,
+    "silhouette_score": 0.9753371437035651,
+    "cluster_summary": [
+      {
+        "cluster_id": 0,
+        "size": 9996,
+        "percentage": 99.96000000000001,
+        "avg_age": 34.920368147258905,
+        "avg_total_spent": 0.032126850740296115,
+        "avg_total_orders": 0.00040016006402561027,
+        "avg_recency_days": 344.25700280112045,
+        "avg_session_duration": 242.7651899857591,
+        "avg_conversion_rate": 0.0
+      },
+      {
+        "cluster_id": 1,
+        "size": 4,
+        "percentage": 0.04,
+        "avg_age": 24.75,
+        "avg_total_spent": 609.7625,
+        "avg_total_orders": 1.25,
+        "avg_recency_days": 218.5,
+        "avg_session_duration": 258.4261363636364,
+        "avg_conversion_rate": 0.014705882352941176
+      }
+    ],
+    "cluster_names": [
+      "One-time Buyers",
+      "At Risk"
+    ]
+  },
+  "churn_prediction": {
+    "method": "Random Forest",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "feature_importance": {
+      "recency_days": 0.5994508761005342,
+      "days_since_registration": 0.3925058362781684,
+      "avg_session_duration": 0.0025438814745003696,
+      "age": 0.001439856401723733,
+      "total_sessions": 0.0013184162171432446,
+      "bounce_rate": 0.001187801696158615,
+      "channel_organic": 0.00020236263081802763,
+      "gender_male": 0.00019411237634677658,
+      "gender_female": 0.00018795215415203813,
+      "channel_direct": 0.00013715468135693076
+    }
+  },
+  "clv_prediction": {
+    "method": "Linear Regression",
+    "r2_score": 1.0,
+    "mean_squared_error": 3.8764992966291493e-28,
+    "mean_absolute_error": 5.7396032371315186e-15,
+    "feature_importance": {}
+  },
+  "business_insights": {
+    "insights": [
+      "At Risk segment needs immediate attention - 218 days since last order",
+      "Churn model identifies 6043 high-risk customers requiring immediate intervention",
+      "Primary churn indicator is recency_days",
+      "Identified 1068 VIP candidates and 1434 at-risk valuable customers"
+    ],
+    "recommendations": [
+      "Launch win-back campaign for At Risk customers with personalized offers",
+      "Implement automated alerts for customers with high churn probability",
+      "Focus retention efforts on improving recency_days",
+      "Create premium retention program for 1434 at-risk valuable customers"
+    ],
+    "analysis_date": "2025-08-07T07:00:26.720712"
+  }
+}

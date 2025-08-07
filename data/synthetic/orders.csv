@@ -1,0 +1,10 @@
+order_id,customer_id,order_date,order_status,total_amount,discount_amount,tax_amount,shipping_cost,payment_method,shipping_address_line1,shipping_city,shipping_state,shipping_country,shipping_postal_code,campaign_id,coupon_code,order_source,delivery_date
+1,375,2025-05-12 06:53:46.343735,completed,459.08,10.24,34.01,0,Credit Card,27236 Debbie Lock Apt. 351,West Donald,Montana,United States,16684,25.0,SAVE8,Mobile App,2025-05-21 06:53:46.343735
+2,422,2025-04-30 06:53:46.347716,shipped,139.88,0.97,10.36,0,Credit Card,5175 John Grove,Nancyhaven,Iowa,United States,41533,3.0,SAVE24,Website,2025-05-06 06:53:46.347716
+3,422,2024-05-10 06:53:46.348823,completed,311.01,0.0,23.04,0,Debit Card,5175 John Grove,Nancyhaven,Iowa,United States,41533,,,Website,2024-05-17 06:53:46.348823
+4,791,2025-03-27 06:53:46.358990,shipped,68.54,8.56,5.08,0,Credit Card,6133 Martin Row,Michaelton,California,United States,42539,,SAVE9,Website,2025-04-04 06:53:46.358990
+5,3196,2025-03-08 06:53:46.421900,completed,180.29,33.11,13.36,0,Credit Card,5481 Larry Court Suite 709,New Ashleyshire,Alaska,United States,28157,,SAVE13,Website,2025-03-13 06:53:46.421900
+6,4521,2024-10-11 06:53:46.457229,completed,1039.41,0.0,76.99,0,PayPal,281 Carol View,South Laurie,Illinois,United States,89324,,,Website,2024-10-15 06:53:46.457229
+7,4741,2023-12-20 06:53:46.463422,completed,54.99,13.46,4.07,0,Google Pay,497 Anthony Stravenue,Fletchermouth,Oregon,United States,38939,49.0,SAVE7,Mobile App,2023-12-27 06:53:46.463422
+8,8479,2025-07-05 06:53:46.562950,completed,629.55,0.0,46.63,0,Credit Card,154 Deborah Crossing,Port Shawn,Georgia,United States,92909,,,Phone,2025-07-09 06:53:46.562950
+9,8587,2024-12-28 06:53:46.566387,completed,85.86,0.0,6.36,0,Credit Card,21580 Neal Shores,Phillipshire,Wyoming,United States,00988,,,Website,2024-12-31 06:53:46.566387
