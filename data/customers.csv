@@ -1,0 +1,1001 @@
+customer_id,age,gender,registration_date,acquisition_channel,city,customer_status
+1,40,Female,2025-02-24,Website,Chicago,Active
+2,33,Male,2025-04-19,Mobile App,Chicago,Active
+3,29,Male,2025-07-02,Mobile App,Phoenix,Active
+4,41,Male,2025-06-07,Social Media,Los Angeles,Active
+5,31,Female,2025-05-13,Referral,New York,Active
+6,33,Male,2025-02-20,Website,Los Angeles,Active
+7,27,Male,2025-01-12,Mobile App,Houston,Active
+8,46,Female,2025-08-01,Referral,Houston,Active
+9,41,Male,2025-06-27,Social Media,Phoenix,Active
+10,26,Female,2024-11-12,Referral,Houston,Active
+11,43,Male,2025-06-29,Website,Phoenix,Active
+12,37,Male,2025-06-12,Email,Los Angeles,Active
+13,36,Male,2025-06-05,Website,New York,Active
+14,40,Female,2024-11-14,Website,Chicago,Active
+15,42,Female,2025-02-21,Referral,Los Angeles,Active
+16,24,Male,2024-08-15,Social Media,Los Angeles,Active
+17,32,Female,2025-01-22,Social Media,Chicago,Active
+18,25,Female,2025-05-13,Referral,Chicago,Active
+19,39,Female,2025-04-07,Mobile App,Los Angeles,Active
+20,53,Male,2025-07-18,Website,New York,Active
+21,36,Female,2025-06-17,Mobile App,Chicago,Active
+22,18,Male,2024-03-10,Social Media,Chicago,Active
+23,41,Female,2024-10-18,Website,Chicago,Active
+24,48,Male,2025-07-15,Mobile App,New York,Active
+25,45,Male,2025-05-21,Mobile App,Chicago,Active
+26,19,Male,2025-06-23,Website,Houston,Active
+27,27,Male,2025-03-13,Mobile App,New York,Active
+28,28,Male,2025-06-17,Social Media,Chicago,Active
+29,22,Male,2025-02-19,Mobile App,Phoenix,Active
+30,23,Male,2025-02-07,Social Media,Phoenix,Active
+31,39,Male,2025-01-19,Email,Chicago,Active
+32,34,Male,2024-10-19,Mobile App,Los Angeles,Active
+33,42,Male,2024-09-17,Mobile App,Phoenix,Active
+34,61,Female,2025-05-28,Website,Los Angeles,Active
+35,18,Female,2025-07-04,Social Media,Los Angeles,Active
+36,35,Female,2025-01-17,Social Media,Los Angeles,Active
+37,44,Female,2025-03-15,Mobile App,Los Angeles,Active
+38,20,Female,2023-12-11,Social Media,Chicago,Active
+39,27,Female,2024-09-04,Email,New York,Active
+40,24,Female,2025-07-23,Website,Houston,Active
+41,18,Female,2023-10-23,Website,Los Angeles,Active
+42,49,Female,2025-04-22,Referral,Houston,Active
+43,23,Male,2024-12-03,Social Media,Chicago,Active
+44,44,Female,2025-03-09,Website,Chicago,Active
+45,19,Female,2023-09-13,Mobile App,Chicago,Active
+46,43,Male,2025-05-22,Social Media,New York,Active
+47,42,Male,2025-08-03,Social Media,New York,Active
+48,24,Female,2025-04-15,Website,Chicago,Active
+49,42,Female,2023-08-31,Website,Phoenix,Active
+50,18,Male,2024-08-30,Mobile App,Los Angeles,Active
+51,43,Female,2025-03-09,Website,Los Angeles,Active
+52,36,Male,2025-06-06,Mobile App,New York,Active
+53,40,Female,2025-06-05,Mobile App,Los Angeles,Active
+54,26,Female,2024-05-24,Mobile App,New York,Active
+55,20,Male,2025-05-09,Website,Chicago,Active
+56,40,Male,2025-05-15,Website,Chicago,Active
+57,62,Male,2025-02-28,Website,Houston,Active
+58,18,Male,2025-06-03,Mobile App,Phoenix,Active
+59,53,Male,2025-02-13,Website,Phoenix,Active
+60,36,Male,2025-05-04,Social Media,Houston,Active
+61,19,Female,2025-06-17,Website,New York,Active
+62,18,Female,2025-07-28,Referral,Los Angeles,Active
+63,31,Male,2024-04-04,Social Media,Phoenix,Active
+64,32,Female,2025-03-15,Social Media,Chicago,Active
+65,26,Female,2025-08-05,Website,Phoenix,Active
+66,19,Male,2025-06-01,Referral,Phoenix,Active
+67,23,Female,2025-04-14,Website,Phoenix,Active
+68,34,Male,2025-02-16,Social Media,Los Angeles,Active
+69,35,Female,2025-01-12,Social Media,Los Angeles,Active
+70,44,Male,2025-03-02,Referral,Houston,Active
+71,54,Male,2025-03-19,Referral,Chicago,Active
+72,20,Female,2025-01-30,Website,Phoenix,Active
+73,29,Male,2024-09-06,Website,Los Angeles,Active
+74,37,Male,2025-04-06,Social Media,Los Angeles,Active
+75,45,Female,2024-10-19,Website,Los Angeles,Active
+76,38,Male,2025-03-09,Social Media,Chicago,Active
+77,18,Female,2025-05-24,Referral,Phoenix,Active
+78,20,Male,2025-01-14,Social Media,Chicago,Active
+79,50,Male,2024-06-27,Mobile App,Houston,Active
+80,35,Female,2024-09-03,Mobile App,Houston,Active
+81,57,Male,2025-06-06,Mobile App,Chicago,Active
+82,47,Male,2024-02-28,Email,Phoenix,Active
+83,38,Female,2023-11-23,Social Media,Los Angeles,Active
+84,55,Female,2025-07-19,Website,Phoenix,Active
+85,28,Female,2025-07-10,Mobile App,Chicago,Active
+86,18,Female,2024-08-15,Email,New York,Active
+87,27,Male,2024-11-10,Social Media,Chicago,Active
+88,51,Male,2025-05-27,Mobile App,Phoenix,Active
+89,34,Male,2025-07-16,Website,New York,Active
+90,31,Female,2025-01-14,Website,New York,Active
+91,18,Female,2025-06-23,Referral,Houston,Active
+92,24,Female,2025-03-14,Mobile App,Phoenix,Active
+93,40,Female,2025-02-10,Social Media,New York,Active
+94,35,Female,2025-03-02,Referral,New York,Active
+95,33,Male,2025-05-26,Website,Houston,Active
+96,27,Male,2025-05-21,Social Media,Houston,Active
+97,19,Male,2025-08-02,Website,Phoenix,Active
+98,25,Female,2025-01-12,Website,Chicago,Active
+99,43,Male,2024-04-09,Email,Phoenix,Active
+100,52,Male,2025-05-04,Email,Los Angeles,Active
+101,18,Female,2024-09-09,Email,Los Angeles,Active
+102,51,Male,2025-07-13,Website,Houston,Active
+103,35,Female,2024-03-04,Email,New York,Active
+104,35,Male,2025-06-27,Website,Phoenix,Active
+105,18,Female,2025-02-15,Mobile App,Los Angeles,Active
+106,41,Female,2025-04-13,Email,Los Angeles,Active
+107,37,Female,2024-07-27,Mobile App,Phoenix,Active
+108,48,Female,2024-12-31,Website,Houston,Active
+109,35,Female,2025-03-15,Website,Los Angeles,Active
+110,37,Male,2025-03-31,Email,Houston,Active
+111,37,Female,2024-10-25,Mobile App,New York,Active
+112,18,Female,2025-06-15,Mobile App,Los Angeles,Active
+113,18,Male,2025-03-04,Mobile App,New York,Active
+114,49,Male,2025-03-02,Mobile App,Houston,Active
+115,28,Female,2025-04-14,Social Media,Los Angeles,Active
+116,22,Female,2025-06-23,Email,Los Angeles,Active
+117,25,Male,2025-07-15,Mobile App,Los Angeles,Active
+118,28,Female,2025-07-14,Mobile App,Chicago,Active
+119,26,Female,2024-05-08,Website,Los Angeles,Active
+120,37,Female,2025-07-23,Social Media,Houston,Active
+121,28,Female,2025-02-15,Mobile App,Los Angeles,Active
+122,20,Female,2025-08-01,Website,Chicago,Active
+123,35,Female,2025-07-18,Mobile App,Chicago,Active
+124,46,Male,2025-07-19,Social Media,Houston,Active
+125,27,Male,2024-07-05,Social Media,Houston,Active
+126,22,Male,2025-01-31,Mobile App,Houston,Active
+127,63,Female,2025-04-28,Website,New York,Active
+128,47,Male,2024-06-20,Social Media,Chicago,Active
+129,18,Male,2025-07-09,Website,Houston,Active
+130,41,Female,2025-07-22,Email,New York,Active
+131,35,Male,2023-08-12,Website,Los Angeles,Active
+132,25,Female,2024-05-16,Website,New York,Active
+133,56,Female,2024-12-22,Mobile App,Los Angeles,Active
+134,34,Male,2024-11-16,Website,Houston,Active
+135,38,Male,2025-07-17,Social Media,Phoenix,Active
+136,18,Female,2024-04-11,Mobile App,Chicago,Active
+137,33,Male,2025-07-27,Referral,Phoenix,Active
+138,30,Female,2025-07-22,Website,New York,Active
+139,41,Male,2025-05-04,Mobile App,New York,Active
+140,52,Female,2024-12-04,Mobile App,Phoenix,Active
+141,37,Male,2025-07-26,Social Media,Houston,Active
+142,36,Female,2025-07-11,Email,Houston,Active
+143,31,Female,2025-01-23,Mobile App,Houston,Active
+144,31,Male,2025-03-01,Social Media,Chicago,Active
+145,43,Male,2025-03-05,Mobile App,Los Angeles,Active
+146,61,Female,2024-06-07,Social Media,Chicago,Active
+147,18,Female,2025-01-07,Website,Phoenix,Active
+148,25,Female,2024-12-07,Social Media,Phoenix,Active
+149,29,Male,2024-12-05,Website,Los Angeles,Active
+150,24,Female,2024-07-27,Mobile App,Phoenix,Active
+151,31,Female,2025-07-09,Website,Houston,Active
+152,23,Female,2025-08-05,Social Media,Houston,Active
+153,18,Male,2025-07-02,Referral,Los Angeles,Active
+154,38,Female,2025-07-09,Social Media,Los Angeles,Active
+155,32,Female,2024-04-10,Social Media,Houston,Active
+156,35,Female,2025-08-03,Social Media,New York,Active
+157,57,Male,2024-12-10,Referral,Chicago,Active
+158,51,Male,2025-07-17,Referral,Houston,Active
+159,35,Female,2025-05-08,Website,New York,Active
+160,48,Male,2024-11-01,Social Media,Chicago,Active
+161,45,Female,2025-05-23,Mobile App,Los Angeles,Active
+162,18,Female,2025-03-01,Website,Chicago,Active
+163,32,Female,2025-05-02,Referral,New York,Active
+164,31,Female,2025-06-10,Website,Los Angeles,Active
+165,22,Female,2025-07-10,Mobile App,Houston,Active
+166,41,Female,2025-07-02,Website,Phoenix,Active
+167,18,Female,2025-05-22,Mobile App,New York,Active
+168,18,Male,2025-04-15,Social Media,Los Angeles,Active
+169,47,Female,2025-03-23,Mobile App,Chicago,Active
+170,22,Male,2025-07-02,Email,Chicago,Active
+171,18,Female,2025-05-05,Website,Houston,Active
+172,25,Female,2024-08-09,Mobile App,New York,Active
+173,26,Female,2025-08-04,Website,Phoenix,Active
+174,26,Male,2025-01-29,Website,Los Angeles,Active
+175,49,Female,2024-03-05,Website,Los Angeles,Active
+176,40,Male,2025-07-22,Website,Chicago,Active
+177,51,Female,2025-02-12,Mobile App,Los Angeles,Active
+178,46,Male,2025-08-01,Email,Phoenix,Active
+179,49,Male,2025-06-06,Referral,Houston,Active
+180,18,Male,2024-08-07,Mobile App,New York,Active
+181,62,Female,2025-01-03,Mobile App,New York,Active
+182,18,Male,2024-09-17,Referral,Los Angeles,Active
+183,38,Female,2024-09-30,Mobile App,Los Angeles,Active
+184,42,Female,2025-06-11,Social Media,New York,Active
+185,56,Male,2025-07-11,Website,Chicago,Active
+186,34,Female,2025-02-23,Social Media,Los Angeles,Active
+187,33,Male,2025-03-29,Website,Houston,Active
+188,44,Female,2025-07-02,Website,Chicago,Active
+189,27,Male,2025-05-20,Social Media,Chicago,Active
+190,18,Female,2025-05-09,Referral,Phoenix,Active
+191,18,Female,2025-07-07,Email,New York,Active
+192,33,Female,2025-02-25,Mobile App,Los Angeles,Active
+193,18,Male,2025-05-04,Social Media,Los Angeles,Active
+194,30,Male,2025-07-24,Website,Houston,Active
+195,21,Female,2025-05-19,Website,Chicago,Active
+196,46,Female,2024-10-31,Social Media,New York,Active
+197,37,Female,2024-12-13,Email,Phoenix,Active
+198,18,Female,2024-09-01,Website,New York,Active
+199,51,Male,2025-01-20,Website,New York,Active
+200,47,Male,2025-03-09,Referral,Phoenix,Active
+201,25,Male,2025-05-01,Email,Houston,Active
+202,42,Female,2025-05-30,Email,New York,Active
+203,19,Female,2025-04-11,Email,Chicago,Active
+204,51,Male,2024-12-18,Website,New York,Active
+205,59,Female,2025-03-28,Mobile App,Houston,Active
+206,40,Male,2025-08-03,Email,Chicago,Active
+207,35,Female,2024-10-23,Referral,Houston,Active
+208,47,Male,2025-07-22,Website,Houston,Active
+209,46,Female,2024-11-17,Mobile App,Houston,Active
+210,38,Female,2025-06-19,Website,Los Angeles,Active
+211,22,Male,2025-08-04,Referral,New York,Active
+212,25,Male,2025-05-10,Website,Chicago,Active
+213,33,Female,2024-03-04,Mobile App,Phoenix,Active
+214,25,Female,2024-12-06,Website,Houston,Active
+215,29,Female,2025-07-15,Website,New York,Active
+216,42,Male,2025-07-01,Email,Phoenix,Active
+217,52,Female,2025-07-08,Email,Phoenix,Active
+218,28,Male,2025-03-22,Social Media,Phoenix,Active
+219,27,Female,2024-01-25,Email,New York,Active
+220,30,Male,2024-04-12,Social Media,Los Angeles,Active
+221,18,Male,2024-12-19,Mobile App,Phoenix,Active
+222,19,Male,2025-01-13,Website,New York,Active
+223,45,Female,2025-01-24,Mobile App,Phoenix,Active
+224,35,Male,2024-07-24,Email,Houston,Active
+225,44,Female,2025-01-14,Social Media,Houston,Active
+226,41,Male,2024-07-21,Email,Chicago,Active
+227,28,Female,2025-08-07,Social Media,Phoenix,Active
+228,42,Female,2025-08-06,Website,Chicago,Active
+229,35,Male,2025-02-08,Mobile App,Chicago,Active
+230,36,Male,2025-06-09,Website,New York,Active
+231,33,Female,2024-04-11,Website,Houston,Active
+232,38,Male,2024-11-15,Referral,New York,Active
+233,44,Male,2025-07-28,Website,Los Angeles,Active
+234,46,Female,2023-10-24,Referral,Houston,Active
+235,48,Male,2025-07-26,Email,Chicago,Active
+236,55,Male,2025-08-07,Website,Los Angeles,Active
+237,20,Female,2025-01-07,Website,Los Angeles,Active
+238,32,Female,2025-06-21,Website,Chicago,Active
+239,42,Male,2025-02-05,Mobile App,New York,Active
+240,33,Male,2025-06-01,Mobile App,Los Angeles,Active
+241,19,Female,2025-04-14,Referral,New York,Active
+242,52,Female,2024-11-11,Email,Los Angeles,Active
+243,42,Male,2025-08-02,Referral,Chicago,Active
+244,50,Male,2025-04-18,Website,New York,Active
+245,18,Female,2025-06-22,Website,Phoenix,Active
+246,42,Male,2024-10-24,Mobile App,Phoenix,Active
+247,33,Female,2025-05-09,Referral,Chicago,Active
+248,20,Female,2024-08-18,Email,Chicago,Active
+249,23,Male,2023-06-22,Website,Houston,Active
+250,34,Female,2025-03-13,Website,Houston,Active
+251,35,Female,2025-07-23,Email,Los Angeles,Active
+252,25,Male,2025-07-13,Social Media,Los Angeles,Active
+253,28,Male,2025-07-19,Social Media,Chicago,Active
+254,41,Female,2025-02-26,Social Media,New York,Active
+255,43,Female,2024-10-20,Mobile App,Chicago,Active
+256,39,Female,2025-01-25,Social Media,Los Angeles,Active
+257,33,Male,2025-07-06,Mobile App,Los Angeles,Active
+258,52,Male,2025-06-17,Website,Phoenix,Active
+259,18,Male,2024-12-05,Email,Phoenix,Active
+260,47,Female,2025-04-05,Social Media,Los Angeles,Active
+261,19,Female,2025-04-07,Website,Chicago,Active
+262,49,Female,2025-07-25,Website,New York,Active
+263,30,Female,2025-05-03,Email,Phoenix,Active
+264,39,Male,2025-05-16,Referral,Los Angeles,Active
+265,37,Male,2024-12-18,Mobile App,Los Angeles,Active
+266,47,Female,2024-10-28,Social Media,Chicago,Active
+267,44,Male,2025-02-13,Social Media,New York,Active
+268,37,Male,2024-12-24,Referral,Los Angeles,Active
+269,38,Female,2025-06-17,Email,New York,Active
+270,31,Female,2025-07-20,Social Media,New York,Active
+271,19,Female,2025-07-13,Referral,Chicago,Active
+272,48,Female,2025-04-24,Mobile App,Phoenix,Active
+273,46,Male,2025-06-17,Social Media,New York,Active
+274,29,Male,2025-05-19,Mobile App,Chicago,Active
+275,45,Male,2024-09-07,Email,Houston,Active
+276,49,Female,2025-03-13,Mobile App,Houston,Active
+277,34,Female,2024-03-29,Website,Chicago,Active
+278,34,Male,2024-04-06,Mobile App,New York,Active
+279,55,Male,2025-04-12,Social Media,Los Angeles,Active
+280,44,Male,2023-10-27,Social Media,Chicago,Active
+281,60,Male,2025-08-02,Mobile App,Los Angeles,Active
+282,33,Male,2025-01-18,Referral,New York,Active
+283,26,Male,2023-12-21,Website,New York,Active
+284,40,Female,2024-03-05,Social Media,Los Angeles,Active
+285,43,Female,2024-11-17,Website,New York,Active
+286,28,Female,2025-01-16,Website,Phoenix,Active
+287,45,Male,2025-07-07,Social Media,New York,Active
+288,56,Female,2023-02-17,Email,Phoenix,Active
+289,54,Female,2025-05-06,Mobile App,Chicago,Active
+290,40,Female,2024-11-22,Email,Chicago,Active
+291,31,Male,2025-01-31,Mobile App,New York,Active
+292,46,Male,2025-05-09,Social Media,Houston,Active
+293,61,Female,2025-04-24,Website,Chicago,Active
+294,48,Female,2025-01-21,Social Media,New York,Active
+295,46,Female,2025-04-12,Website,Los Angeles,Active
+296,31,Male,2025-07-09,Mobile App,Houston,Active
+297,18,Female,2024-12-03,Social Media,Chicago,Active
+298,28,Male,2025-06-29,Website,Phoenix,Active
+299,31,Female,2025-07-27,Referral,Chicago,Active
+300,39,Male,2025-04-10,Website,Houston,Active
+301,41,Female,2025-03-04,Website,Los Angeles,Active
+302,37,Male,2023-10-01,Email,Chicago,Active
+303,28,Male,2024-10-28,Website,Houston,Active
+304,41,Male,2025-07-22,Email,Houston,Active
+305,36,Female,2025-02-23,Email,Houston,Active
+306,29,Male,2025-06-26,Social Media,Los Angeles,Active
+307,43,Female,2025-03-14,Website,Houston,Active
+308,31,Male,2024-09-30,Mobile App,Los Angeles,Active
+309,42,Male,2025-04-30,Website,New York,Active
+310,43,Female,2024-08-15,Website,New York,Active
+311,28,Male,2025-06-27,Social Media,New York,Active
+312,23,Male,2025-02-26,Mobile App,Los Angeles,Active
+313,43,Female,2025-04-24,Mobile App,New York,Active
+314,18,Female,2023-04-07,Website,Chicago,Active
+315,18,Female,2024-11-14,Website,Phoenix,Active
+316,47,Female,2025-06-30,Mobile App,Chicago,Active
+317,48,Male,2024-09-21,Social Media,Houston,Active
+318,18,Male,2025-03-21,Email,Los Angeles,Active
+319,21,Male,2025-06-30,Website,Houston,Active
+320,43,Female,2025-03-14,Social Media,Houston,Active
+321,36,Female,2025-07-04,Social Media,New York,Active
+322,26,Male,2025-05-05,Mobile App,Houston,Active
+323,50,Female,2024-04-23,Website,Houston,Active
+324,20,Female,2025-08-04,Social Media,Houston,Active
+325,44,Male,2025-06-15,Email,New York,Active
+326,21,Female,2025-04-02,Website,Phoenix,Active
+327,25,Male,2024-03-28,Social Media,Chicago,Active
+328,19,Female,2025-06-09,Referral,Los Angeles,Active
+329,45,Female,2023-03-19,Email,Los Angeles,Active
+330,35,Female,2025-05-08,Mobile App,Phoenix,Active
+331,46,Female,2024-10-16,Email,Houston,Active
+332,31,Female,2025-05-29,Website,Chicago,Active
+333,22,Female,2025-02-04,Email,New York,Active
+334,50,Male,2025-06-01,Social Media,New York,Active
+335,51,Male,2025-04-04,Mobile App,New York,Active
+336,41,Female,2025-07-15,Mobile App,Houston,Active
+337,41,Male,2025-06-01,Mobile App,Los Angeles,Active
+338,35,Male,2024-08-29,Website,Chicago,Active
+339,53,Male,2025-07-27,Email,Los Angeles,Active
+340,49,Male,2025-04-10,Email,New York,Active
+341,20,Male,2024-11-06,Website,Houston,Active
+342,31,Female,2025-02-08,Website,Phoenix,Active
+343,18,Female,2025-03-26,Mobile App,Phoenix,Active
+344,45,Female,2025-04-22,Website,Chicago,Active
+345,49,Female,2024-11-17,Website,Los Angeles,Active
+346,31,Male,2025-05-02,Email,Phoenix,Active
+347,28,Female,2025-06-25,Website,Los Angeles,Active
+348,39,Female,2025-06-29,Website,Houston,Active
+349,18,Female,2025-04-05,Website,Phoenix,Active
+350,25,Female,2025-07-09,Mobile App,Houston,Active
+351,48,Female,2024-08-19,Mobile App,Los Angeles,Active
+352,41,Female,2024-01-26,Email,New York,Active
+353,32,Female,2025-06-16,Email,Houston,Active
+354,30,Female,2025-01-26,Email,New York,Active
+355,27,Female,2025-07-09,Social Media,New York,Active
+356,37,Male,2025-07-30,Website,Chicago,Active
+357,48,Male,2025-08-01,Mobile App,Los Angeles,Active
+358,41,Male,2023-03-31,Referral,Chicago,Active
+359,22,Male,2025-07-20,Social Media,Los Angeles,Active
+360,41,Male,2025-07-23,Referral,New York,Active
+361,32,Female,2025-04-12,Email,Los Angeles,Active
+362,33,Female,2025-06-06,Referral,Phoenix,Active
+363,53,Female,2025-01-27,Website,New York,Active
+364,41,Female,2025-06-23,Mobile App,Chicago,Active
+365,18,Male,2025-06-11,Referral,Houston,Active
+366,46,Male,2024-07-11,Social Media,Chicago,Active
+367,20,Female,2025-06-15,Mobile App,Phoenix,Active
+368,48,Female,2025-04-18,Email,Houston,Active
+369,33,Female,2025-06-12,Mobile App,Phoenix,Active
+370,30,Male,2025-07-13,Social Media,Chicago,Active
+371,34,Male,2025-05-24,Mobile App,Phoenix,Active
+372,41,Female,2025-04-02,Website,Chicago,Active
+373,47,Male,2025-07-07,Social Media,New York,Active
+374,37,Female,2024-07-20,Website,Chicago,Active
+375,50,Male,2025-03-15,Social Media,Chicago,Active
+376,29,Male,2025-05-20,Email,Houston,Active
+377,49,Female,2024-09-20,Website,New York,Active
+378,35,Female,2025-05-17,Mobile App,Chicago,Active
+379,33,Female,2025-07-15,Mobile App,Houston,Active
+380,49,Female,2024-07-12,Social Media,Phoenix,Active
+381,30,Male,2025-05-07,Email,Phoenix,Active
+382,30,Female,2025-07-26,Social Media,Houston,Active
+383,59,Female,2024-10-17,Website,Houston,Active
+384,49,Male,2025-02-06,Website,Phoenix,Active
+385,41,Female,2025-05-15,Website,New York,Active
+386,29,Male,2025-07-22,Website,Chicago,Active
+387,42,Female,2025-06-04,Website,Houston,Active
+388,43,Female,2025-07-03,Social Media,Houston,Active
+389,49,Female,2025-07-02,Mobile App,Los Angeles,Active
+390,18,Male,2025-01-03,Social Media,Phoenix,Active
+391,40,Female,2025-07-28,Email,Los Angeles,Active
+392,37,Female,2024-09-09,Website,New York,Active
+393,43,Female,2025-02-09,Website,Los Angeles,Active
+394,33,Female,2024-11-08,Website,New York,Active
+395,39,Male,2024-11-30,Social Media,Houston,Active
+396,21,Male,2025-06-09,Website,Houston,Active
+397,23,Female,2023-10-15,Mobile App,Los Angeles,Active
+398,23,Female,2025-06-12,Website,Houston,Active
+399,18,Male,2024-06-19,Website,Chicago,Active
+400,45,Female,2025-03-13,Referral,Los Angeles,Active
+401,40,Female,2025-04-07,Referral,Phoenix,Active
+402,41,Female,2025-06-29,Social Media,Chicago,Active
+403,38,Female,2025-07-02,Website,Phoenix,Active
+404,33,Male,2025-06-16,Email,New York,Active
+405,22,Female,2024-12-20,Website,New York,Active
+406,35,Female,2025-07-23,Mobile App,New York,Active
+407,21,Female,2025-06-25,Website,Chicago,Active
+408,32,Female,2025-03-19,Website,Houston,Active
+409,35,Female,2025-04-06,Mobile App,Phoenix,Active
+410,34,Male,2025-05-27,Email,Phoenix,Active
+411,23,Male,2024-02-27,Social Media,Houston,Active
+412,40,Female,2025-08-03,Website,Chicago,Active
+413,36,Female,2025-07-18,Social Media,New York,Active
+414,45,Male,2025-07-21,Mobile App,Chicago,Active
+415,36,Male,2024-10-28,Social Media,Phoenix,Active
+416,18,Male,2025-02-03,Website,Los Angeles,Active
+417,40,Female,2025-05-31,Email,Chicago,Active
+418,24,Female,2025-07-05,Mobile App,Houston,Active
+419,28,Female,2025-01-28,Website,Houston,Active
+420,28,Female,2023-11-28,Email,New York,Active
+421,35,Female,2025-05-02,Referral,Phoenix,Active
+422,51,Female,2025-05-29,Referral,Los Angeles,Active
+423,20,Male,2025-03-13,Mobile App,New York,Active
+424,31,Female,2025-06-26,Mobile App,Chicago,Active
+425,39,Female,2025-03-20,Social Media,Houston,Active
+426,31,Female,2024-06-17,Social Media,New York,Active
+427,33,Female,2025-05-26,Website,Phoenix,Active
+428,18,Male,2025-07-22,Social Media,Chicago,Active
+429,30,Male,2024-12-02,Social Media,New York,Active
+430,23,Female,2025-04-15,Referral,Chicago,Active
+431,31,Male,2025-01-13,Website,Houston,Active
+432,26,Male,2024-09-15,Website,Chicago,Active
+433,36,Male,2025-06-25,Website,Phoenix,Active
+434,58,Male,2024-11-24,Referral,New York,Active
+435,43,Female,2025-06-14,Referral,Chicago,Active
+436,43,Male,2025-07-05,Mobile App,Houston,Active
+437,23,Male,2024-10-20,Mobile App,New York,Active
+438,31,Male,2024-12-08,Referral,New York,Active
+439,41,Female,2024-10-17,Website,New York,Active
+440,31,Male,2024-09-23,Website,Houston,Active
+441,39,Female,2025-07-20,Website,New York,Active
+442,27,Male,2025-06-04,Social Media,Chicago,Active
+443,43,Female,2025-07-27,Email,Los Angeles,Active
+444,24,Female,2025-02-27,Email,Phoenix,Active
+445,28,Male,2025-06-12,Email,Phoenix,Active
+446,44,Female,2025-07-27,Email,Chicago,Active
+447,55,Female,2025-08-02,Email,Los Angeles,Active
+448,33,Female,2025-03-08,Mobile App,Houston,Active
+449,34,Male,2025-05-24,Website,Phoenix,Active
+450,45,Female,2025-02-27,Social Media,Houston,Active
+451,25,Male,2024-11-02,Referral,Houston,Active
+452,39,Female,2025-02-23,Social Media,New York,Active
+453,27,Female,2025-08-07,Website,Los Angeles,Active
+454,18,Female,2025-06-19,Mobile App,New York,Active
+455,32,Male,2025-02-19,Website,New York,Active
+456,18,Female,2025-08-07,Website,Chicago,Active
+457,29,Male,2025-04-26,Website,Los Angeles,Active
+458,44,Male,2024-04-11,Mobile App,Phoenix,Active
+459,45,Female,2024-07-22,Social Media,Phoenix,Active
+460,28,Female,2025-07-30,Mobile App,Phoenix,Active
+461,18,Male,2024-06-05,Social Media,Houston,Active
+462,18,Female,2025-06-05,Social Media,Houston,Active
+463,29,Male,2025-07-27,Social Media,Los Angeles,Active
+464,36,Male,2025-01-22,Email,Houston,Active
+465,24,Male,2024-11-30,Website,Los Angeles,Active
+466,31,Male,2024-12-01,Mobile App,Phoenix,Active
+467,21,Female,2025-08-06,Social Media,New York,Active
+468,51,Female,2024-07-31,Social Media,Chicago,Active
+469,37,Female,2023-04-07,Email,New York,Active
+470,55,Male,2025-06-06,Mobile App,Phoenix,Active
+471,44,Female,2025-06-25,Mobile App,New York,Active
+472,32,Male,2025-05-11,Email,Houston,Active
+473,20,Male,2024-10-31,Mobile App,Los Angeles,Active
+474,46,Male,2025-04-22,Social Media,New York,Active
+475,18,Female,2025-05-16,Social Media,Houston,Active
+476,26,Male,2025-03-26,Mobile App,Houston,Active
+477,21,Female,2025-05-23,Website,Phoenix,Active
+478,32,Female,2025-05-14,Website,Chicago,Active
+479,18,Female,2025-02-21,Mobile App,Houston,Active
+480,25,Female,2025-03-13,Website,New York,Active
+481,34,Male,2025-04-03,Referral,Houston,Active
+482,21,Male,2025-06-26,Referral,Chicago,Active
+483,31,Male,2024-06-19,Website,Los Angeles,Active
+484,54,Male,2025-04-14,Mobile App,Los Angeles,Active
+485,18,Male,2025-03-20,Website,New York,Active
+486,18,Female,2025-07-05,Website,Chicago,Active
+487,47,Female,2025-07-03,Mobile App,Houston,Active
+488,29,Male,2024-09-22,Mobile App,New York,Active
+489,22,Male,2025-02-11,Mobile App,Chicago,Active
+490,37,Female,2024-12-12,Mobile App,New York,Active
+491,32,Female,2025-07-10,Email,Phoenix,Active
+492,52,Female,2025-06-22,Referral,Phoenix,Active
+493,18,Male,2025-08-01,Social Media,Houston,Active
+494,48,Male,2025-01-14,Mobile App,Los Angeles,Active
+495,39,Female,2024-08-14,Social Media,Los Angeles,Active
+496,34,Female,2025-03-27,Social Media,Chicago,Active
+497,18,Female,2024-08-11,Referral,Los Angeles,Active
+498,72,Male,2025-02-23,Social Media,Phoenix,Active
+499,36,Male,2025-08-07,Social Media,New York,Active
+500,34,Female,2025-07-27,Email,Chicago,Active
+501,43,Female,2024-04-18,Website,Chicago,Active
+502,24,Female,2025-07-13,Website,Houston,Active
+503,27,Male,2024-01-17,Website,Chicago,Active
+504,45,Male,2023-01-09,Website,Chicago,Active
+505,43,Female,2025-07-11,Email,Phoenix,Active
+506,41,Female,2024-10-13,Email,Chicago,Active
+507,25,Female,2025-07-24,Mobile App,Chicago,Active
+508,37,Male,2025-07-17,Email,Phoenix,Active
+509,26,Female,2025-06-19,Mobile App,Los Angeles,Active
+510,39,Male,2025-05-07,Website,Houston,Active
+511,31,Male,2025-07-09,Website,Phoenix,Active
+512,47,Female,2024-09-09,Mobile App,Phoenix,Active
+513,52,Male,2024-12-22,Email,Los Angeles,Active
+514,29,Female,2025-02-12,Website,Los Angeles,Active
+515,44,Female,2024-10-18,Social Media,Houston,Active
+516,23,Male,2024-11-12,Website,Los Angeles,Active
+517,39,Male,2024-12-02,Mobile App,New York,Active
+518,23,Female,2025-07-30,Website,New York,Active
+519,24,Male,2025-05-19,Website,Chicago,Active
+520,48,Female,2025-03-08,Referral,Chicago,Active
+521,45,Male,2023-12-18,Website,Los Angeles,Active
+522,33,Male,2025-03-11,Referral,New York,Active
+523,41,Female,2023-12-08,Email,New York,Active
+524,25,Female,2024-03-07,Website,Houston,Active
+525,42,Male,2025-05-19,Referral,Houston,Active
+526,49,Female,2025-04-13,Website,Chicago,Active
+527,28,Female,2025-05-03,Email,Los Angeles,Active
+528,33,Male,2025-01-27,Mobile App,New York,Active
+529,42,Male,2025-05-09,Referral,Houston,Active
+530,44,Female,2025-05-31,Social Media,Phoenix,Active
+531,30,Female,2025-07-22,Website,Phoenix,Active
+532,58,Male,2025-07-17,Mobile App,Houston,Active
+533,38,Male,2024-05-29,Email,New York,Active
+534,27,Male,2025-05-03,Mobile App,New York,Active
+535,31,Female,2024-07-25,Website,Los Angeles,Active
+536,40,Female,2025-06-01,Email,New York,Active
+537,40,Male,2025-08-04,Email,New York,Active
+538,35,Male,2025-06-13,Website,Phoenix,Active
+539,49,Male,2025-02-04,Social Media,Chicago,Active
+540,25,Female,2025-03-17,Email,Chicago,Active
+541,43,Male,2025-05-08,Mobile App,Chicago,Active
+542,43,Female,2024-03-27,Social Media,Phoenix,Active
+543,32,Male,2024-01-16,Referral,Phoenix,Active
+544,54,Female,2025-01-30,Social Media,Houston,Active
+545,26,Female,2025-02-14,Email,New York,Active
+546,42,Female,2025-03-05,Website,Phoenix,Active
+547,45,Male,2025-02-03,Email,Houston,Active
+548,35,Male,2024-12-18,Mobile App,New York,Active
+549,48,Female,2025-04-06,Website,New York,Active
+550,48,Female,2025-03-25,Website,Phoenix,Active
+551,42,Female,2025-03-18,Website,Chicago,Active
+552,37,Male,2025-04-23,Website,Chicago,Active
+553,24,Female,2025-03-26,Mobile App,Houston,Active
+554,39,Female,2025-06-29,Referral,Chicago,Active
+555,35,Male,2025-04-26,Social Media,Los Angeles,Active
+556,38,Female,2025-07-01,Email,Chicago,Active
+557,51,Male,2024-02-05,Referral,Phoenix,Active
+558,23,Female,2024-11-14,Mobile App,New York,Active
+559,52,Female,2024-11-21,Email,Houston,Active
+560,32,Male,2025-08-06,Mobile App,Houston,Active
+561,42,Male,2025-05-30,Email,Chicago,Active
+562,19,Male,2025-06-18,Mobile App,Houston,Active
+563,25,Male,2025-05-08,Referral,Chicago,Active
+564,39,Female,2025-03-31,Mobile App,Chicago,Active
+565,52,Female,2024-02-12,Social Media,New York,Active
+566,27,Female,2025-06-16,Social Media,Chicago,Active
+567,48,Female,2024-07-26,Referral,Los Angeles,Active
+568,31,Female,2024-11-30,Website,New York,Active
+569,37,Male,2024-02-14,Social Media,Chicago,Active
+570,32,Female,2025-04-29,Mobile App,Chicago,Active
+571,24,Female,2024-02-28,Email,Phoenix,Active
+572,19,Female,2024-09-30,Email,Los Angeles,Active
+573,39,Male,2025-05-27,Email,Houston,Active
+574,19,Female,2025-05-18,Website,Chicago,Active
+575,18,Female,2024-09-16,Mobile App,Los Angeles,Active
+576,37,Female,2025-05-21,Email,Los Angeles,Active
+577,36,Male,2025-04-30,Website,Phoenix,Active
+578,47,Female,2025-08-07,Mobile App,Phoenix,Active
+579,24,Male,2025-08-06,Mobile App,Chicago,Active
+580,42,Male,2025-06-30,Mobile App,Chicago,Active
+581,49,Female,2025-05-01,Mobile App,Phoenix,Active
+582,44,Female,2024-10-06,Website,Chicago,Active
+583,43,Female,2025-07-09,Mobile App,Los Angeles,Active
+584,25,Female,2025-07-06,Email,New York,Active
+585,44,Female,2025-05-19,Referral,New York,Active
+586,18,Male,2025-03-13,Email,New York,Active
+587,20,Male,2025-07-20,Email,Los Angeles,Active
+588,32,Female,2024-08-16,Website,Chicago,Active
+589,42,Male,2025-07-16,Email,Phoenix,Active
+590,21,Female,2025-04-06,Mobile App,Houston,Active
+591,43,Male,2025-08-03,Email,Los Angeles,Active
+592,45,Female,2024-09-08,Website,Chicago,Active
+593,57,Female,2025-03-20,Mobile App,Phoenix,Active
+594,35,Female,2024-08-15,Website,Chicago,Active
+595,37,Female,2025-02-12,Mobile App,Chicago,Active
+596,37,Female,2025-07-25,Mobile App,Chicago,Active
+597,18,Male,2025-07-01,Website,Phoenix,Active
+598,43,Male,2025-05-21,Social Media,New York,Active
+599,47,Female,2025-06-17,Mobile App,Los Angeles,Active
+600,32,Male,2025-01-11,Mobile App,Los Angeles,Active
+601,28,Female,2024-11-04,Social Media,Chicago,Active
+602,19,Female,2025-02-23,Referral,Los Angeles,Active
+603,34,Female,2025-07-19,Mobile App,Houston,Active
+604,31,Male,2024-12-09,Social Media,New York,Active
+605,36,Male,2025-02-21,Mobile App,Chicago,Active
+606,18,Male,2025-06-07,Social Media,Los Angeles,Active
+607,26,Male,2024-02-10,Website,Houston,Active
+608,37,Female,2025-02-13,Social Media,Phoenix,Active
+609,44,Female,2025-02-19,Mobile App,Houston,Active
+610,21,Male,2025-08-07,Website,Chicago,Active
+611,32,Female,2025-01-02,Social Media,Houston,Active
+612,38,Female,2025-05-12,Referral,New York,Active
+613,41,Male,2024-09-12,Website,New York,Active
+614,34,Female,2024-12-06,Mobile App,Houston,Active
+615,38,Male,2025-06-15,Mobile App,New York,Active
+616,37,Male,2022-11-05,Website,Chicago,Active
+617,19,Female,2025-07-21,Website,Houston,Active
+618,43,Male,2025-06-17,Website,Phoenix,Active
+619,23,Male,2025-02-25,Social Media,Los Angeles,Active
+620,18,Female,2025-05-12,Mobile App,Phoenix,Active
+621,29,Female,2025-06-16,Referral,Chicago,Active
+622,50,Female,2025-04-29,Website,Chicago,Active
+623,18,Male,2024-06-27,Social Media,Chicago,Active
+624,38,Male,2025-02-09,Website,Houston,Active
+625,34,Female,2025-07-10,Email,Los Angeles,Active
+626,50,Female,2025-06-06,Mobile App,New York,Active
+627,39,Male,2025-04-15,Website,Houston,Active
+628,19,Male,2024-11-20,Mobile App,Los Angeles,Active
+629,43,Male,2025-03-30,Email,Houston,Active
+630,33,Female,2024-07-19,Email,Houston,Active
+631,51,Male,2024-04-29,Mobile App,Los Angeles,Active
+632,32,Female,2025-05-20,Mobile App,Houston,Active
+633,36,Male,2024-10-13,Email,Los Angeles,Active
+634,36,Male,2025-06-11,Website,New York,Active
+635,32,Female,2025-04-04,Website,Phoenix,Active
+636,24,Female,2024-09-14,Email,Chicago,Active
+637,32,Male,2025-04-19,Mobile App,Houston,Active
+638,34,Male,2025-07-16,Website,Phoenix,Active
+639,46,Female,2025-07-07,Website,New York,Active
+640,46,Male,2024-12-13,Email,Los Angeles,Active
+641,25,Male,2025-03-29,Social Media,Chicago,Active
+642,31,Male,2024-12-01,Social Media,Chicago,Active
+643,18,Male,2025-03-20,Social Media,Los Angeles,Active
+644,51,Male,2025-04-05,Mobile App,New York,Active
+645,41,Male,2025-02-21,Website,Phoenix,Active
+646,61,Male,2023-08-30,Mobile App,Phoenix,Active
+647,45,Male,2025-04-02,Mobile App,New York,Active
+648,32,Female,2024-08-22,Social Media,Chicago,Active
+649,59,Female,2025-06-16,Website,Houston,Active
+650,46,Female,2024-11-29,Mobile App,New York,Active
+651,18,Female,2025-04-21,Website,Los Angeles,Active
+652,32,Male,2025-04-10,Website,New York,Active
+653,31,Female,2023-11-27,Website,New York,Active
+654,46,Female,2025-04-22,Mobile App,Houston,Active
+655,22,Male,2025-05-16,Website,Houston,Active
+656,26,Male,2024-12-20,Social Media,Chicago,Active
+657,32,Female,2024-09-09,Mobile App,Houston,Active
+658,42,Male,2025-07-19,Website,Houston,Active
+659,40,Female,2024-11-30,Email,Los Angeles,Active
+660,52,Female,2025-08-05,Website,Houston,Active
+661,26,Male,2024-07-06,Social Media,New York,Active
+662,41,Male,2025-02-21,Mobile App,Los Angeles,Active
+663,37,Female,2025-07-08,Mobile App,Phoenix,Active
+664,46,Female,2025-05-12,Social Media,New York,Active
+665,25,Male,2024-06-04,Mobile App,New York,Active
+666,26,Female,2025-07-13,Mobile App,Los Angeles,Active
+667,34,Female,2025-03-23,Social Media,Chicago,Active
+668,41,Female,2025-05-29,Website,Houston,Active
+669,18,Female,2024-09-29,Website,Phoenix,Active
+670,31,Female,2024-11-10,Email,Houston,Active
+671,43,Male,2025-06-24,Mobile App,Phoenix,Active
+672,44,Female,2025-06-18,Social Media,Los Angeles,Active
+673,30,Male,2025-03-31,Social Media,Phoenix,Active
+674,52,Female,2024-09-06,Website,Phoenix,Active
+675,44,Female,2022-08-16,Website,Phoenix,Active
+676,42,Male,2024-01-01,Email,Phoenix,Active
+677,39,Male,2025-01-28,Website,Los Angeles,Active
+678,52,Female,2025-06-02,Website,Chicago,Active
+679,18,Male,2025-07-26,Social Media,Chicago,Active
+680,18,Male,2024-12-29,Mobile App,Houston,Active
+681,47,Male,2025-05-16,Social Media,Chicago,Active
+682,37,Male,2025-04-24,Mobile App,New York,Active
+683,43,Female,2024-02-18,Email,Chicago,Active
+684,34,Female,2025-05-15,Referral,Phoenix,Active
+685,28,Female,2023-10-19,Website,Chicago,Active
+686,36,Female,2024-10-12,Mobile App,Houston,Active
+687,36,Male,2024-02-20,Website,Los Angeles,Active
+688,28,Female,2025-02-19,Social Media,Houston,Active
+689,57,Female,2025-02-05,Referral,Phoenix,Active
+690,29,Male,2025-03-07,Website,Houston,Active
+691,37,Male,2025-02-26,Social Media,Phoenix,Active
+692,31,Male,2025-07-23,Social Media,Houston,Active
+693,44,Female,2025-04-04,Referral,Chicago,Active
+694,22,Female,2025-06-08,Email,Chicago,Active
+695,27,Female,2025-02-22,Social Media,Phoenix,Active
+696,27,Male,2025-05-26,Website,Houston,Active
+697,39,Female,2025-07-22,Mobile App,Los Angeles,Active
+698,38,Male,2025-07-05,Mobile App,Los Angeles,Active
+699,29,Male,2025-07-10,Referral,New York,Active
+700,31,Female,2025-04-25,Website,Chicago,Active
+701,20,Male,2025-07-13,Website,New York,Active
+702,22,Male,2025-06-04,Referral,Los Angeles,Active
+703,30,Male,2024-08-13,Website,Los Angeles,Active
+704,38,Female,2024-12-30,Social Media,Phoenix,Active
+705,53,Male,2025-06-01,Website,Houston,Active
+706,33,Female,2025-07-23,Mobile App,Los Angeles,Active
+707,20,Female,2025-03-07,Social Media,New York,Active
+708,18,Female,2025-06-01,Mobile App,Phoenix,Active
+709,20,Female,2024-12-07,Mobile App,Houston,Active
+710,29,Female,2025-01-26,Website,Los Angeles,Active
+711,39,Male,2025-03-31,Referral,Phoenix,Active
+712,26,Female,2025-07-04,Social Media,New York,Active
+713,48,Male,2023-11-14,Referral,Phoenix,Active
+714,35,Female,2025-07-11,Social Media,Houston,Active
+715,37,Female,2025-05-06,Referral,Phoenix,Active
+716,32,Female,2025-03-13,Mobile App,Chicago,Active
+717,49,Female,2025-05-25,Referral,New York,Active
+718,24,Male,2025-03-28,Mobile App,Houston,Active
+719,41,Female,2025-07-09,Mobile App,Phoenix,Active
+720,49,Male,2025-04-10,Referral,Phoenix,Active
+721,36,Female,2024-11-03,Social Media,Phoenix,Active
+722,41,Male,2024-11-23,Website,Los Angeles,Active
+723,35,Female,2024-04-02,Mobile App,Los Angeles,Active
+724,54,Male,2025-08-02,Website,New York,Active
+725,63,Female,2025-04-01,Mobile App,Houston,Active
+726,37,Male,2024-08-27,Referral,New York,Active
+727,42,Male,2025-05-26,Mobile App,Phoenix,Active
+728,44,Male,2025-02-20,Website,Houston,Active
+729,49,Male,2024-11-30,Website,New York,Active
+730,29,Male,2025-03-14,Email,Los Angeles,Active
+731,48,Male,2025-07-22,Website,Chicago,Active
+732,25,Male,2025-08-02,Referral,Chicago,Active
+733,49,Female,2025-06-30,Website,Phoenix,Active
+734,55,Female,2024-12-09,Website,Chicago,Active
+735,28,Female,2025-03-20,Mobile App,Houston,Active
+736,18,Female,2025-06-01,Mobile App,Chicago,Active
+737,35,Female,2024-03-22,Mobile App,Houston,Active
+738,37,Male,2025-06-19,Social Media,Phoenix,Active
+739,36,Male,2025-04-15,Social Media,Los Angeles,Active
+740,18,Female,2025-06-11,Website,Phoenix,Active
+741,32,Female,2025-06-17,Social Media,Los Angeles,Active
+742,52,Female,2024-06-02,Mobile App,New York,Active
+743,55,Female,2025-02-22,Email,Houston,Active
+744,29,Male,2024-12-12,Mobile App,Phoenix,Active
+745,18,Female,2025-04-27,Website,New York,Active
+746,34,Male,2025-05-21,Website,Houston,Active
+747,45,Female,2024-10-02,Social Media,Chicago,Active
+748,50,Male,2025-03-12,Referral,Chicago,Active
+749,33,Female,2025-04-17,Website,Phoenix,Active
+750,36,Female,2025-06-22,Email,Los Angeles,Active
+751,40,Male,2025-07-04,Social Media,Phoenix,Active
+752,59,Male,2025-04-30,Email,Los Angeles,Active
+753,18,Male,2025-07-29,Social Media,Phoenix,Active
+754,24,Female,2025-06-16,Social Media,Los Angeles,Active
+755,40,Male,2025-05-22,Mobile App,New York,Active
+756,40,Male,2025-06-26,Website,New York,Active
+757,43,Female,2025-07-02,Website,Phoenix,Active
+758,32,Male,2025-04-19,Mobile App,Chicago,Active
+759,33,Female,2024-03-28,Mobile App,Chicago,Active
+760,25,Female,2023-11-08,Social Media,Phoenix,Active
+761,26,Female,2024-11-13,Website,Chicago,Active
+762,25,Male,2025-05-21,Social Media,Los Angeles,Active
+763,39,Female,2025-05-15,Website,New York,Active
+764,40,Male,2024-12-01,Mobile App,Phoenix,Active
+765,33,Male,2025-07-08,Email,Houston,Active
+766,26,Male,2025-07-05,Email,Chicago,Active
+767,35,Female,2024-01-14,Website,Houston,Active
+768,18,Female,2025-02-07,Social Media,Chicago,Active
+769,31,Male,2024-11-07,Mobile App,Los Angeles,Active
+770,27,Female,2025-07-10,Email,Los Angeles,Active
+771,30,Female,2025-04-05,Mobile App,Los Angeles,Active
+772,31,Female,2025-06-02,Social Media,Chicago,Active
+773,50,Female,2025-01-05,Mobile App,New York,Active
+774,37,Female,2025-05-23,Social Media,Chicago,Active
+775,33,Female,2025-06-13,Referral,Chicago,Active
+776,41,Female,2025-06-30,Mobile App,Los Angeles,Active
+777,40,Male,2025-06-02,Mobile App,New York,Active
+778,21,Male,2025-07-05,Mobile App,New York,Active
+779,42,Female,2025-05-25,Email,New York,Active
+780,45,Female,2025-02-22,Website,Chicago,Active
+781,42,Female,2025-06-03,Website,Los Angeles,Active
+782,28,Female,2025-05-02,Website,Chicago,Active
+783,33,Female,2024-12-14,Referral,New York,Active
+784,34,Female,2025-06-03,Website,Houston,Active
+785,46,Male,2025-07-27,Mobile App,Houston,Active
+786,18,Male,2024-09-20,Email,Phoenix,Active
+787,21,Male,2025-07-22,Website,Phoenix,Active
+788,24,Female,2025-06-08,Website,Los Angeles,Active
+789,45,Female,2024-12-16,Mobile App,Houston,Active
+790,39,Male,2025-03-08,Email,Chicago,Active
+791,36,Female,2025-05-23,Mobile App,Los Angeles,Active
+792,45,Male,2025-08-01,Mobile App,Los Angeles,Active
+793,41,Male,2024-07-12,Email,Houston,Active
+794,21,Male,2025-07-17,Social Media,Houston,Active
+795,46,Female,2024-09-28,Mobile App,Houston,Active
+796,41,Female,2025-03-23,Website,Houston,Active
+797,30,Female,2025-07-08,Referral,Chicago,Active
+798,32,Male,2025-05-21,Email,Phoenix,Active
+799,30,Male,2025-02-15,Mobile App,Los Angeles,Active
+800,43,Female,2025-01-22,Mobile App,Phoenix,Active
+801,18,Male,2025-07-20,Social Media,Los Angeles,Active
+802,28,Male,2025-04-15,Mobile App,New York,Active
+803,49,Female,2025-02-22,Mobile App,Chicago,Active
+804,42,Male,2023-09-11,Social Media,Phoenix,Active
+805,43,Male,2025-01-25,Social Media,Phoenix,Active
+806,34,Female,2025-06-26,Website,Los Angeles,Active
+807,31,Female,2025-05-27,Mobile App,New York,Active
+808,18,Female,2024-10-16,Email,Houston,Active
+809,43,Female,2025-04-07,Social Media,New York,Active
+810,48,Female,2025-07-29,Email,Houston,Active
+811,43,Female,2025-07-14,Email,Los Angeles,Active
+812,18,Male,2025-07-11,Social Media,Houston,Active
+813,45,Female,2025-02-21,Mobile App,Phoenix,Active
+814,43,Female,2024-02-29,Website,Phoenix,Active
+815,24,Female,2025-02-08,Social Media,Houston,Active
+816,26,Male,2025-01-23,Social Media,Houston,Active
+817,34,Female,2025-05-31,Email,Chicago,Active
+818,44,Male,2024-07-04,Website,Chicago,Active
+819,19,Male,2025-03-21,Email,Chicago,Active
+820,25,Female,2024-06-21,Social Media,New York,Active
+821,53,Female,2025-06-22,Mobile App,New York,Active
+822,21,Male,2025-07-20,Website,Chicago,Active
+823,47,Female,2025-03-03,Email,Los Angeles,Active
+824,36,Male,2025-05-31,Mobile App,Houston,Active
+825,21,Male,2025-02-08,Website,Chicago,Active
+826,48,Male,2025-03-07,Website,Houston,Active
+827,36,Female,2024-11-18,Mobile App,Phoenix,Active
+828,32,Female,2025-06-21,Website,Los Angeles,Active
+829,18,Male,2025-06-10,Email,Chicago,Active
+830,37,Female,2023-10-10,Mobile App,Chicago,Active
+831,48,Male,2025-04-05,Social Media,Houston,Active
+832,40,Male,2025-02-17,Email,Chicago,Active
+833,26,Female,2025-03-25,Social Media,New York,Active
+834,48,Female,2024-09-19,Mobile App,Houston,Active
+835,23,Female,2025-04-21,Mobile App,New York,Active
+836,54,Male,2025-07-15,Social Media,New York,Active
+837,27,Male,2025-04-03,Website,Houston,Active
+838,33,Female,2025-04-21,Mobile App,Phoenix,Active
+839,33,Female,2025-08-07,Social Media,Phoenix,Active
+840,47,Male,2025-01-31,Website,New York,Active
+841,37,Female,2025-07-09,Mobile App,Phoenix,Active
+842,41,Male,2024-08-08,Website,Houston,Active
+843,21,Female,2025-06-26,Website,New York,Active
+844,30,Male,2025-05-18,Website,Phoenix,Active
+845,24,Female,2025-01-15,Social Media,New York,Active
+846,22,Male,2025-06-05,Website,Chicago,Active
+847,58,Male,2024-03-20,Email,New York,Active
+848,18,Female,2025-07-23,Mobile App,Houston,Active
+849,32,Male,2025-06-29,Social Media,Los Angeles,Active
+850,43,Female,2025-05-29,Mobile App,Houston,Active
+851,33,Female,2025-03-04,Referral,New York,Active
+852,29,Female,2025-07-09,Email,Chicago,Active
+853,45,Male,2025-06-22,Social Media,Phoenix,Active
+854,30,Male,2025-02-03,Mobile App,Los Angeles,Active
+855,45,Male,2025-06-25,Mobile App,Chicago,Active
+856,37,Male,2025-04-25,Website,Houston,Active
+857,48,Female,2024-09-27,Social Media,New York,Active
+858,28,Male,2025-08-05,Website,Houston,Active
+859,32,Male,2025-08-04,Email,Phoenix,Active
+860,34,Female,2024-11-21,Mobile App,Los Angeles,Active
+861,18,Female,2025-08-05,Website,Los Angeles,Active
+862,43,Male,2025-05-11,Website,Phoenix,Active
+863,25,Male,2025-08-06,Website,Phoenix,Active
+864,27,Female,2025-06-28,Website,Phoenix,Active
+865,60,Male,2024-02-29,Email,New York,Active
+866,42,Male,2025-07-05,Website,Los Angeles,Active
+867,44,Male,2025-07-28,Social Media,Phoenix,Active
+868,48,Female,2025-07-11,Mobile App,Houston,Active
+869,48,Male,2025-04-08,Mobile App,Houston,Active
+870,51,Female,2025-08-03,Referral,Chicago,Active
+871,35,Female,2025-07-17,Mobile App,Phoenix,Active
+872,40,Male,2025-07-03,Email,Los Angeles,Active
+873,23,Male,2024-11-07,Mobile App,New York,Active
+874,37,Female,2024-09-07,Mobile App,Los Angeles,Active
+875,35,Male,2025-05-08,Mobile App,Chicago,Active
+876,35,Male,2024-12-14,Mobile App,Chicago,Active
+877,39,Male,2025-07-03,Referral,Chicago,Active
+878,18,Male,2025-05-03,Mobile App,Phoenix,Active
+879,48,Male,2025-02-08,Email,Phoenix,Active
+880,58,Male,2025-07-07,Referral,Phoenix,Active
+881,22,Male,2025-05-21,Mobile App,Chicago,Active
+882,32,Female,2025-02-28,Referral,Los Angeles,Active
+883,20,Male,2025-03-15,Social Media,Los Angeles,Active
+884,38,Male,2024-09-25,Website,Los Angeles,Active
+885,35,Male,2024-12-05,Mobile App,Phoenix,Active
+886,33,Female,2025-02-19,Mobile App,Houston,Active
+887,28,Female,2025-03-31,Website,Los Angeles,Active
+888,18,Male,2024-06-04,Website,Phoenix,Active
+889,26,Male,2025-03-07,Website,Chicago,Active
+890,31,Female,2025-03-17,Mobile App,Phoenix,Active
+891,44,Male,2025-04-07,Website,Los Angeles,Active
+892,19,Female,2025-02-25,Email,Chicago,Active
+893,18,Male,2025-05-28,Website,Houston,Active
+894,45,Female,2025-05-12,Mobile App,Phoenix,Active
+895,18,Female,2025-07-23,Website,Los Angeles,Active
+896,57,Female,2024-12-25,Social Media,Houston,Active
+897,49,Male,2024-08-14,Mobile App,Los Angeles,Active
+898,18,Female,2025-08-04,Website,Houston,Active
+899,46,Female,2024-07-13,Email,Houston,Active
+900,50,Female,2024-12-21,Website,Chicago,Active
+901,31,Male,2025-07-12,Email,Phoenix,Active
+902,40,Female,2025-06-19,Email,Houston,Active
+903,59,Female,2025-02-14,Email,Phoenix,Active
+904,36,Female,2025-06-03,Email,New York,Active
+905,29,Male,2025-07-02,Referral,Los Angeles,Active
+906,24,Female,2025-06-27,Mobile App,Los Angeles,Active
+907,30,Male,2025-02-07,Mobile App,Houston,Active
+908,29,Male,2025-06-29,Email,New York,Active
+909,51,Female,2024-09-05,Website,Houston,Active
+910,26,Male,2025-05-25,Website,Chicago,Active
+911,25,Female,2024-07-28,Mobile App,Phoenix,Active
+912,21,Female,2024-11-04,Website,Los Angeles,Active
+913,36,Male,2025-04-05,Social Media,Los Angeles,Active
+914,39,Male,2025-06-03,Website,Chicago,Active
+915,33,Female,2024-11-30,Email,Houston,Active
+916,39,Male,2024-11-05,Email,Phoenix,Active
+917,47,Female,2025-06-16,Email,Phoenix,Active
+918,45,Male,2024-12-23,Mobile App,Houston,Active
+919,41,Female,2025-02-07,Mobile App,Phoenix,Active
+920,29,Female,2025-02-22,Mobile App,Phoenix,Active
+921,33,Male,2024-12-30,Referral,New York,Active
+922,43,Male,2025-07-12,Social Media,Los Angeles,Active
+923,47,Male,2025-06-17,Referral,New York,Active
+924,52,Male,2023-09-24,Social Media,Houston,Active
+925,40,Male,2025-05-20,Mobile App,Los Angeles,Active
+926,35,Male,2025-04-18,Website,Phoenix,Active
+927,26,Male,2025-04-14,Mobile App,New York,Active
+928,33,Female,2025-05-03,Mobile App,Phoenix,Active
+929,40,Male,2025-06-10,Website,Houston,Active
+930,45,Female,2025-05-30,Social Media,New York,Active
+931,44,Male,2025-07-28,Website,Phoenix,Active
+932,33,Female,2025-07-18,Social Media,Los Angeles,Active
+933,36,Female,2025-04-28,Website,Houston,Active
+934,31,Male,2025-07-25,Social Media,New York,Active
+935,27,Male,2023-01-19,Website,Los Angeles,Active
+936,38,Male,2025-07-31,Mobile App,Los Angeles,Active
+937,54,Female,2024-10-08,Email,Los Angeles,Active
+938,31,Female,2025-08-06,Email,Los Angeles,Active
+939,42,Male,2024-11-06,Email,New York,Active
+940,18,Female,2025-07-20,Social Media,New York,Active
+941,42,Male,2024-09-25,Website,New York,Active
+942,28,Female,2025-07-12,Mobile App,Chicago,Active
+943,26,Male,2025-05-18,Mobile App,Chicago,Active
+944,33,Female,2025-04-07,Mobile App,Los Angeles,Active
+945,29,Female,2023-02-05,Mobile App,New York,Active
+946,46,Female,2024-05-19,Social Media,Chicago,Active
+947,33,Female,2025-07-12,Mobile App,Los Angeles,Active
+948,19,Female,2024-11-16,Referral,Chicago,Active
+949,35,Female,2024-07-24,Referral,Chicago,Active
+950,37,Female,2025-06-30,Mobile App,Houston,Active
+951,42,Female,2025-07-08,Mobile App,Chicago,Active
+952,44,Male,2025-05-03,Website,Los Angeles,Active
+953,26,Female,2024-12-12,Social Media,Chicago,Active
+954,25,Female,2025-07-11,Email,New York,Active
+955,63,Male,2025-04-12,Email,Chicago,Active
+956,36,Male,2025-07-10,Referral,Chicago,Active
+957,41,Female,2024-10-03,Social Media,Houston,Active
+958,45,Female,2025-05-20,Website,Los Angeles,Active
+959,41,Male,2025-04-30,Referral,Los Angeles,Active
+960,57,Female,2024-04-08,Social Media,Chicago,Active
+961,24,Male,2025-04-14,Mobile App,Los Angeles,Active
+962,42,Female,2025-05-24,Social Media,Los Angeles,Active
+963,30,Female,2025-06-19,Mobile App,Phoenix,Active
+964,33,Female,2025-06-27,Mobile App,Phoenix,Active
+965,31,Male,2024-10-10,Mobile App,New York,Active
+966,47,Male,2023-12-09,Website,Chicago,Active
+967,30,Male,2025-07-23,Email,Los Angeles,Active
+968,18,Male,2024-05-18,Mobile App,New York,Active
+969,35,Female,2025-03-05,Website,Phoenix,Active
+970,32,Male,2025-04-17,Website,Chicago,Active
+971,34,Female,2025-06-14,Social Media,Phoenix,Active
+972,24,Male,2024-05-16,Social Media,Houston,Active
+973,43,Male,2025-04-27,Email,Chicago,Active
+974,41,Female,2024-10-29,Social Media,Houston,Active
+975,40,Male,2025-07-29,Mobile App,Los Angeles,Active
+976,39,Female,2025-04-17,Social Media,Houston,Active
+977,42,Female,2025-06-27,Website,Los Angeles,Active
+978,26,Male,2025-05-13,Website,Houston,Active
+979,24,Female,2025-03-26,Social Media,Los Angeles,Active
+980,18,Female,2025-04-01,Mobile App,Los Angeles,Active
+981,34,Male,2025-05-11,Website,Los Angeles,Active
+982,33,Male,2024-12-16,Social Media,Houston,Active
+983,44,Male,2025-06-02,Referral,Phoenix,Active
+984,40,Female,2025-07-16,Mobile App,Chicago,Active
+985,18,Male,2025-03-15,Social Media,Houston,Active
+986,47,Female,2025-07-22,Email,Chicago,Active
+987,21,Female,2024-12-08,Email,New York,Active
+988,46,Female,2025-06-29,Website,Phoenix,Active
+989,43,Female,2024-04-19,Social Media,Los Angeles,Active
+990,41,Female,2025-03-26,Website,New York,Active
+991,41,Female,2025-07-28,Website,Los Angeles,Active
+992,41,Male,2025-02-16,Referral,Phoenix,Active
+993,24,Male,2025-04-09,Website,Houston,Active
+994,42,Female,2025-03-25,Mobile App,Phoenix,Active
+995,44,Male,2024-11-12,Mobile App,Phoenix,Active
+996,42,Female,2025-04-26,Website,Phoenix,Active
+997,32,Male,2024-12-18,Email,Phoenix,Active
+998,45,Male,2025-05-26,Referral,Los Angeles,Active
+999,36,Male,2025-05-29,Social Media,Phoenix,Active
+1000,28,Female,2025-02-17,Website,New York,Active
